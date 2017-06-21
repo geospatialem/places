@@ -826,10 +826,10 @@
       "type": "Feature",
       "properties": {
         "name": "Myre-Big Island State Park",
-        "visited": "Planned",
+        "visited": "2017",
         "comments": "Blazing Star State Trail",
         "activities": "Boat rental, Canoe rental, Hiking trails, Kayak rental, Paddleboard rental, Paved bike trails, Snowshoe rental",
-        "camping": "Backpack-in campsite, Canoe-in campsite, Kayak-in campsite"
+        "camping": "Backpack-in campsite, Canoe-in campsite, Drive-in campsite, Kayak-in campsite"
       },
       "geometry": {
           "type": "Point",
