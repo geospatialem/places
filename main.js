@@ -77,7 +77,7 @@ var mnParks = L.geoJson(null, {
   onEachFeature: setPopupContent
 });
 $.getJSON("places/parks.json", function (data) {
-	mnParks.addData(data).addTo(map);
+	mnParks.addData(data);
 });
 
 var mlbBallparks = L.geoJson(null, {
@@ -92,7 +92,7 @@ var mlbBallparks = L.geoJson(null, {
   onEachFeature: setPopupContent
 });
 $.getJSON("places/ballparks.json", function (data) {
-	mlbBallparks.addData(data);
+	mlbBallparks.addData(data).addTo(map);
 });
 
 function setColor (value) {
