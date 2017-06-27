@@ -97,9 +97,10 @@ $.getJSON("places/ballparks.json", function (data) {
 
 function setColor (value) {
   switch (value) {
-    case 'N/A':     return '#8E0152';
-    case 'Planned': return '#DE77AE';
-    default:        return '#276419';
+    case 'N/A':                             return '#8E0152';
+    case 'Planned':                         return '#DE77AE';
+    case 'Kitty only': case 'Eric only':    return '#A1D76A';
+    default:                                return '#276419';
   }
 }
 

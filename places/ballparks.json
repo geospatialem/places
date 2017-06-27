@@ -208,7 +208,7 @@
       "properties": {
         "teamName": "Los Angeles Angels of Anaheim",
         "ballparkName": "Angels Stadium",
-        "visited": "N/A"
+        "visited": "Eric only"
       }
     },
     {
@@ -223,7 +223,7 @@
       "properties": {
         "teamName": "Los Angeles Dodgers",
         "ballparkName": "Dodger Stadium",
-        "visited": "N/A"
+        "visited": "Eric only"
       }
     },
     {
@@ -343,7 +343,7 @@
       "properties": {
         "teamName": "San Diego Padres",
         "ballparkName": "PETCO Park",
-        "visited": 2013
+        "visited": "Kitty only"
       }
     },
     {
