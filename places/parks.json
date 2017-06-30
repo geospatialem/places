@@ -395,7 +395,7 @@
       "type": "Feature",
       "properties": {
         "name": "Gooseberry State Park",
-        "visited": "2007",
+        "visited": "2017",
         "comments": "Waterfalls",
         "activities": "Hiking trails, Paved bike trails",
         "camping": "Drive-in campsite, Kayak-in campsite, Pull-through campsite"
@@ -1047,7 +1047,7 @@
       "type": "Feature",
       "properties": {
         "name": "Split Rock Lighthouse State Park",
-        "visited": "N/A",
+        "visited": "2017",
         "comments": "Lighthouse; Waterfalls; Pebble Beach; Gitchi-Gami State Trail",
         "activities": "Hiking trails, Paved bike trail",
         "camping": "Backpack-in campsite, Cart-in campsite, Kayak-in campsite"
