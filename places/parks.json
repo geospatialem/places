@@ -61,7 +61,7 @@
       "type": "Feature",
       "properties": {
         "name": "Big Bog State Park",
-        "visited": "N/A",
+        "visited": "Planned",
         "comments": "Bog boardwalk",
         "activities": "Boat rental, Canoe rental, Hiking trails, Kayak rental",
         "camping": "Camper cabin, Drive-in campsite, Pull-through campsite"
@@ -561,7 +561,7 @@
       "type": "Feature",
       "properties": {
         "name": "Judge C. R. Magney State Park",
-        "visited": "N/A",
+        "visited": "Planned",
         "comments": "Devil's Kettle waterfall",
         "activities": "Hiking trails",
         "camping": "Drive-in campsite"
@@ -991,7 +991,7 @@
       "type": "Feature",
       "properties": {
         "name": "Scenic State Park",
-        "visited": "N/A",
+        "visited": "Planned",
         "comments": "Chase Point Trail",
         "activities": "Boat rental, Canoe rental, Hiking trail, Kayak rental, Paddleboard rental",
         "camping": "Backpack-in campsite, Boat-in campsite, Canoe-in campsite, Drive-in campsite, Pull-through campsite"
