@@ -409,7 +409,7 @@
       "type": "Feature",
       "properties": {
         "name": "Grand Portage State Park",
-        "visited": "N/A",
+        "visited": "Planned",
         "comments": "Minnesota's highest waterfall; no entry fee",
         "activities": "Groomed snowshoe trail, Hiking trails, Snowshoe rental",
         "camping": ""
@@ -895,7 +895,7 @@
       "type": "Feature",
       "properties": {
         "name": "Rice Lake State Park",
-        "visited": "N/A",
+        "visited": "Planned",
         "comments": "",
         "activities": "Canoe rental, Hiking trails, Kayak rental",
         "camping": "Canoe-in campsite, Cart-in campsite, Drive-in campsite, Walk-in campsite"
