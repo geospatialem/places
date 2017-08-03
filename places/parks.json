@@ -798,7 +798,7 @@
       "type": "Feature",
       "properties": {
         "name": "Monson Lake State Park",
-        "visited": "N/A",
+        "visited": "Planned",
         "comments": "",
         "activities": "Hiking trails",
         "camping": "Drive-in campsite"
@@ -1019,7 +1019,7 @@
       "type": "Feature",
       "properties": {
         "name": "Sibley State Park",
-        "visited": "N/A",
+        "visited": "Planned",
         "comments": "Mount Tom (el. 1,375 ft.); Glacial Lakes State Trail",
         "activities": "Boat rental, Canoe rental, Groomed snowshoe trail, Hiking trails, Kayak rental, Paved bike trail, Snowshoe rental",
         "camping": "Camper cabin, Drive-in campsite, Pull-through campsite"
