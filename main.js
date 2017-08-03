@@ -62,6 +62,9 @@ function setPopupContent(feature, layer) {
   if (feature.properties.activities) {
     popupContent += "<b>Activities:</b> " + feature.properties.activities + "<br/>";
   }
+  if (feature.properties.notes) {
+    popupContent += "<b>Notes:</b> " + feature.properties.notes + "<br/>";
+  }
 	layer.bindPopup(popupContent);
 }
 

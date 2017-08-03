@@ -495,7 +495,8 @@
         "visited": "2017",
         "comments": "Rock formations",
         "activities": "Canoe rental, Hiking trails",
-        "camping": "Drive-in campsite"
+        "camping": "Drive-in campsite",
+        "notes": "Site 21"
       },
       "geometry": {
           "type": "Point",
@@ -829,7 +830,8 @@
         "visited": "2017",
         "comments": "Blazing Star State Trail",
         "activities": "Boat rental, Canoe rental, Hiking trails, Kayak rental, Paddleboard rental, Paved bike trails, Snowshoe rental",
-        "camping": "Backpack-in campsite, Canoe-in campsite, Drive-in campsite, Kayak-in campsite"
+        "camping": "Backpack-in campsite, Canoe-in campsite, Drive-in campsite, Kayak-in campsite",
+        "notes": "Sunset by picnic area off spit west of Big Island"
       },
       "geometry": {
           "type": "Point",
@@ -1050,7 +1052,8 @@
         "visited": "2017",
         "comments": "Lighthouse; Waterfalls; Pebble Beach; Gitchi-Gami State Trail",
         "activities": "Hiking trails, Paved bike trail",
-        "camping": "Backpack-in campsite, Cart-in campsite, Kayak-in campsite"
+        "camping": "Backpack-in campsite, Cart-in campsite, Kayak-in campsite",
+        "notes": "Cart-in site 18"
       },
       "geometry": {
           "type": "Point",
@@ -1078,7 +1081,8 @@
         "visited": "2007",
         "comments": "Several waterfalls along the Baptism River, including High Falls, the highest waterfall entirely inside Minnesota's border.",
         "activities": "Canoe rental, Hiking trails, Snowshoe rental",
-        "camping": "Cart-in campsite, Drive-in campsite, Kayak-in campsite, Walk-in campsite"
+        "camping": "Cart-in campsite, Drive-in campsite, Kayak-in campsite, Walk-in campsite",
+        "notes": "Shovel point"
       },
       "geometry": {
           "type": "Point",
@@ -1106,7 +1110,8 @@
         "visited": "2017",
         "comments": "Fire tower",
         "activities": "Hiking trails, Snowshoe rental",
-        "camping": "Camper cabin, Cart-in campsite, Drive-in campsite, Pull-through campsite"
+        "camping": "Camper cabin, Cart-in campsite, Drive-in campsite, Pull-through campsite",
+        "notes": "Chimney rock trail/overlook, Cart-in site 2"
       },
       "geometry": {
           "type": "Point",
