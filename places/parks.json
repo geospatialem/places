@@ -19,7 +19,7 @@
       "type": "Feature",
       "properties": {
         "name": "Banning State Park",
-        "visited": "N/A",
+        "visited": "Planned",
         "comments": "",
         "activities": "Hiking trails",
         "camping": "Boat-in campsite, Canoe-in campsite, Camping, Camper cabin, Drive-in campsite, Kayak-in campsite"
@@ -159,7 +159,7 @@
       "type": "Feature",
       "properties": {
         "name": "Cascade River State Park",
-        "visited": "2005",
+        "visited": "N/A",
         "comments": "Waterfalls! Hike to the top of Moose Mountain (el. 1,148 ft.) and Lookout Mountain (el. 1,200 ft.)",
         "activities": "Hiking trails, Snowshoe rental",
         "camping": "Backpack-in campsite, Drive-in campsite, Kayak-in campsite, Pull-through campsite"
@@ -256,7 +256,7 @@
       "type": "Feature",
       "properties": {
         "name": "Flood Bay State Wayside",
-        "visited": "N/A",
+        "visited": "Planned",
         "comments": "One of the top beach walks along the North Shore. A long pebble beach along the shores of Lake Superior, just outside Two Harbors. [Note: One vault toilet and No picnic tables].",
         "activities": "Hiking trails"
       },
@@ -589,7 +589,7 @@
       "type": "Feature",
       "properties": {
         "name": "Kadunce River State Wayside",
-        "visited": "N/A",
+        "visited": "Planned",
         "comments": "Access the Kodonce River Gorge via a Superior Hiking Trail spur. Off from the rest area, enjoy a walk down to Lake Superior beachfront along the mouth of the Kodonce River. [Note: No sanitation facilities, but picnic tables are present].",
         "activities": "Hiking trails"
       },
@@ -812,7 +812,7 @@
       "type": "Feature",
       "properties": {
         "name": "Moose Lake State Park",
-        "visited": "N/A",
+        "visited": "Planned",
         "comments": "Agate and Geological Interpretive Center",
         "activities": "Boat rental, Canoe rental, Hiking trails, Kayak rental, Paved bike trails",
         "camping": "Drive-in campsite, Walk-in campsite"
@@ -1061,7 +1061,7 @@
       "type": "Feature",
       "properties": {
         "name": "Temperance River State Park",
-        "visited": "2005",
+        "visited": "N/A",
         "comments": "Waterfalls; Take the Superior Hiking Trail through the gorge to Carlton Peak (el. 1,526 ft.)",
         "activities": "Hiking trails, Paved bike trail",
         "camping": "Cart-in campsite, Pull-through campsite"
