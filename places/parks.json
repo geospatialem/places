@@ -89,7 +89,7 @@
       "type": "Feature",
       "properties": {
         "name": "Blue Mounds State Park",
-        "visited": "N/A",
+        "visited": "Planned",
         "comments": "Bison",
         "activities": "Canoe rental, Hiking trails, Paved bike trail",
         "camping": "Drive-in campsite, Tipi"
@@ -117,7 +117,7 @@
       "type": "Feature",
       "properties": {
         "name": "Camden State Park",
-        "visited": "N/A",
+        "visited": "Planned",
         "comments": "",
         "activities": "Canoe rental, Hiking trails, Kayak rental, Snowshoe rental",
         "camping": "Drive-in campsite, Pull-through campsite"
@@ -437,7 +437,7 @@
       "type": "Feature",
       "properties": {
         "name": "Greenleaf Lake State Recreation Area",
-        "visited": "N/A",
+        "visited": "Planned",
         "comments": "",
         "activities": "Hiking trails",
         "camping": ""
@@ -1035,7 +1035,7 @@
       "type": "Feature",
       "properties": {
         "name": "Split Rock Creek State Park",
-        "visited": "N/A",
+        "visited": "Planned",
         "comments": "",
         "activities": "Boat rental, Canoe rental, Hiking trails, Kayak rental, Paddleboard rental",
         "camping": "Drive-in campsite"
