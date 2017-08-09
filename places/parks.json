@@ -367,7 +367,7 @@
       "type": "Feature",
       "properties": {
         "name": "Glacial Lakes State Park",
-        "visited": "N/A",
+        "visited": "2017",
         "comments": "",
         "activities": "Canoe rental, Hiking trails, Kayak rental, Paddleboard rental, Paved bike trails",
         "camping": "Backpack-in campsite, Camper cabin, Drive-in campsite, Pull-through campsite"
@@ -799,7 +799,7 @@
       "type": "Feature",
       "properties": {
         "name": "Monson Lake State Park",
-        "visited": "Planned",
+        "visited": "2017",
         "comments": "",
         "activities": "Hiking trails",
         "camping": "Drive-in campsite"
