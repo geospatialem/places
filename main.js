@@ -16,7 +16,7 @@ if (windowSize > 600) {
   collapseLegend = true;
 }
 
-var esriServiceUrl = 'http://server.arcgisonline.com/ArcGIS/rest/services/';
+var esriServiceUrl = 'https://server.arcgisonline.com/ArcGIS/rest/services/';
 var esriAttribution = 'Tiles &copy; Esri';
 
 var esriTopo = L.tileLayer(esriServiceUrl + 'World_Topo_Map/MapServer/tile/{z}/{y}/{x}', {
