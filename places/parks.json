@@ -897,8 +897,8 @@
       "type": "Feature",
       "properties": {
         "name": "Rice Lake State Park",
-        "visited": "Planned",
-        "comments": "",
+        "visited": "2017",
+        "comments": "Cart-in #1",
         "activities": "Canoe rental, Hiking trails, Kayak rental",
         "camping": "Canoe-in campsite, Cart-in campsite, Drive-in campsite, Walk-in campsite"
       },
@@ -952,7 +952,7 @@
       "type": "Feature",
       "properties": {
         "name": "Sakatah Lake State Park",
-        "visited": "N/A",
+        "visited": "2017",
         "comments": "",
         "activities": "Boat rental, Canoe rental, Hiking trails, Kayak rental, Paddleboard rental, Paved bike trail",
         "camping": "Camper cabin, Drive-in campsite"
