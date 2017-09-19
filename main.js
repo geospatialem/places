@@ -84,8 +84,8 @@ function setPopupContent (feature, layer) {
 }
 
 function updateAttributeWindow (hover) {
-  var rats = hover.target.feature.properties;
-  attributeWindow.update(rats);
+  var attributeInfo = hover.target.feature.properties;
+  attributeWindow.update(attributeInfo);
 }
 
 var mnParks = L.geoJson(null, {
