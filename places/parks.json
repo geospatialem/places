@@ -242,7 +242,7 @@
       "type": "Feature",
       "properties": {
         "name": "Flandrau State Park",
-        "visited": "N/A",
+        "visited": "Planned",
         "comments": "",
         "activities": "Groomed snowshoe trails, Hiking trails, Snowshow rental",
         "camping": "Camper cabin, Drive-in campsite, Pull-through campsite, Walk-in campsite"
@@ -283,7 +283,7 @@
       "type": "Feature",
       "properties": {
         "name": "Fort Ridgely State Park",
-        "visited": "N/A",
+        "visited": "Planned",
         "comments": "",
         "activities": "Hiking trails, Paved bike trails",
         "camping": "Drive-in campsite, Pull-through campsite, Walk-in campsite"
@@ -549,7 +549,7 @@
       "type": "Feature",
       "properties": {
         "name": "Joseph R. Brown State Wayside",
-        "visited": "N/A",
+        "visited": "Planned",
         "comments": "2012 marked 150 years since the U.S.-Dakota War of 1862. This wayside features the ruins of Joseph R. Brown's three-story mansion, destroyed during the Dakota War of 1862. [Note: No sanitation facilities and one picnic tables present].",
         "activities": "Hiking trails"
       },
@@ -617,7 +617,7 @@
       "type": "Feature",
       "properties": {
         "name": "Lac qui Parle State Park",
-        "visited": "N/A",
+        "visited": "Planned",
         "comments": "",
         "activities": "Canoe rental, Hiking trails, Kayak rental, Snowshoe rental",
         "camping": "Camper cabin, Drive-in campsite, Pull-through campsite, Walk-in campsite"
@@ -1093,7 +1093,7 @@
       "type": "Feature",
       "properties": {
         "name": "Upper Sioux Agency State Park",
-        "visited": "N/A",
+        "visited": "Planned",
         "comments": "",
         "activities": "Hiking trails",
         "camping": "Drive-in campsite, Pull-through campsite, Tipi, Walk-in campsite"
