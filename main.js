@@ -80,6 +80,15 @@ function setPopupContent (feature, layer) {
   if (feature.properties.notes) {
     popupContent += "<b>Notes:</b> " + feature.properties.notes + "<br/>";
   }
+  if (feature.properties.photo) {
+    popupContent += "<div class='center'>";
+    if (feature.properties.photoType == "portrait") {
+      popupContent += "<img class='popupPortrait' src='photos/" + feature.properties.photo + "'></img>";
+    } else {
+      popupContent += "<img class='popupPhoto' src='photos/" + feature.properties.photo + "'></img>";
+    }
+    popupContent += "</div>";
+  }
 	layer.bindPopup(popupContent);
 }
 

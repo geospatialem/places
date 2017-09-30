@@ -8,7 +8,8 @@
         "visited": "2016",
         "comments": "",
         "activities": "Hiking trails",
-        "camping": "Backpack-in campsite, Camper cabin, Yurt"
+        "camping": "Backpack-in campsite, Camper cabin, Yurt",
+        "photo": "parks/Afton.JPG"
       },
       "geometry": {
           "type": "Point",
@@ -22,7 +23,8 @@
         "visited": "2017",
         "comments": "",
         "activities": "Hiking trails",
-        "camping": "Boat-in campsite, Canoe-in campsite, Camping, Camper cabin, Drive-in campsite, Kayak-in campsite"
+        "camping": "Boat-in campsite, Canoe-in campsite, Camping, Camper cabin, Drive-in campsite, Kayak-in campsite",
+        "photo": "parks/Banning.JPG"
       },
       "geometry": {
           "type": "Point",
@@ -92,7 +94,8 @@
         "visited": "2017",
         "comments": "Bison, Tipi 1",
         "activities": "Canoe rental, Hiking trails, Paved bike trail",
-        "camping": "Drive-in campsite, Tipi"
+        "camping": "Drive-in campsite, Tipi",
+        "photo": "parks/BlueMounds.JPG"
       },
       "geometry": {
           "type": "Point",
@@ -120,7 +123,8 @@
         "visited": "2017",
         "comments": "",
         "activities": "Canoe rental, Hiking trails, Kayak rental, Snowshoe rental",
-        "camping": "Drive-in campsite, Pull-through campsite"
+        "camping": "Drive-in campsite, Pull-through campsite",
+        "photo": "parks/Camden.JPG"
       },
       "geometry": {
           "type": "Point",
@@ -370,7 +374,8 @@
         "visited": "2017",
         "comments": "",
         "activities": "Canoe rental, Hiking trails, Kayak rental, Paddleboard rental, Paved bike trails",
-        "camping": "Backpack-in campsite, Camper cabin, Drive-in campsite, Pull-through campsite"
+        "camping": "Backpack-in campsite, Camper cabin, Drive-in campsite, Pull-through campsite",
+        "photo": "parks/GlacialLakes.JPG"
       },
       "geometry": {
           "type": "Point",
@@ -398,7 +403,8 @@
         "visited": "2017",
         "comments": "Waterfalls",
         "activities": "Hiking trails, Paved bike trails",
-        "camping": "Drive-in campsite, Kayak-in campsite, Pull-through campsite"
+        "camping": "Drive-in campsite, Kayak-in campsite, Pull-through campsite",
+        "photo": "parks/GooseberryFalls.JPG"
       },
       "geometry": {
           "type": "Point",
@@ -496,7 +502,8 @@
         "comments": "Rock formations",
         "activities": "Canoe rental, Hiking trails",
         "camping": "Drive-in campsite",
-        "notes": "Site 21"
+        "notes": "Site 21",
+        "photo": "parks/Interstate.JPG"
       },
       "geometry": {
           "type": "Point",
@@ -510,7 +517,8 @@
         "visited": "2016",
         "comments": "Mississippi River Headwaters, Fire tower",
         "activities": "Canoe rental, Groomed snowshoe trails, Hiking trails, Kayak rental, Paddleboard rental, Paved bike trails, Snowshoe rental",
-        "camping": "Backpack-in campsite, Cart-in campsite, Drive-in campsite, Lodge, Pull-through campsite"
+        "camping": "Backpack-in campsite, Cart-in campsite, Drive-in campsite, Lodge, Pull-through campsite",
+        "photo": "parks/Itasca.JPG"
       },
       "geometry": {
           "type": "Point",
@@ -634,7 +642,8 @@
         "visited": "2016",
         "comments": "Tamarack bog walk",
         "activities": "Boat rental, Canoe rental, Hiking trails, Kayak rental, Snowshoe rental",
-        "camping": "Camper cabin, Drive-in campsite, Pull-through campsite"
+        "camping": "Camper cabin, Drive-in campsite, Pull-through campsite",
+        "photo": "parks/LakeBemidji.JPG"
       },
       "geometry": {
           "type": "Point",
@@ -690,7 +699,8 @@
         "visited": "2017",
         "comments": "Blandings turtles, Winter skating rink",
         "activities": "Boat rental, Canoe rental, Groomed snowshoe trail, Hiking trails, Kayak rental, Snowshoe rental",
-        "camping": "Backpack-in campsite, Camper cabin"
+        "camping": "Backpack-in campsite, Camper cabin",
+        "photo": "parks/LakeMaria.JPG"
       },
       "geometry": {
           "type": "Point",
@@ -718,7 +728,8 @@
         "visited": "2007",
         "comments": "Lander Mattson Peak; Journey a half-mile underground to explore the world of mining or tour a fascinating physics lab. This park preserves five miles of shoreline and public access to a 40,000-acre lake with 368 islands. Hike the 2.4-mile Alaska Shaft trail for an overview.",
         "activities": "Hiking trails, Paved bike trails",
-        "camping": "Boat-in campsite"
+        "camping": "Boat-in campsite",
+        "photo": "parks/LakeVermilionSoudan.JPG"
       },
       "geometry": {
           "type": "Point",
@@ -774,7 +785,9 @@
         "visited": "2006",
         "comments": "Waterfalls",
         "activities": "Hiking trails, Paved bike trails, Snowshoe rental",
-        "camping": "Camper cabin, Drive-in campsite"
+        "camping": "Camper cabin, Drive-in campsite",
+        "photoType": "portrait",
+        "photo": "parks/Minneopa.JPG"
       },
       "geometry": {
           "type": "Point",
@@ -802,7 +815,8 @@
         "visited": "2017",
         "comments": "",
         "activities": "Hiking trails",
-        "camping": "Drive-in campsite"
+        "camping": "Drive-in campsite",
+        "photo": "parks/MonsonLake.JPG"
       },
       "geometry": {
           "type": "Point",
@@ -831,7 +845,8 @@
         "comments": "Blazing Star State Trail",
         "activities": "Boat rental, Canoe rental, Hiking trails, Kayak rental, Paddleboard rental, Paved bike trails, Snowshoe rental",
         "camping": "Backpack-in campsite, Canoe-in campsite, Drive-in campsite, Kayak-in campsite",
-        "notes": "Sunset by picnic area off spit west of Big Island"
+        "notes": "Sunset by picnic area off spit west of Big Island",
+        "photo": "parks/MyreBigIsland.JPG"
       },
       "geometry": {
           "type": "Point",
@@ -845,7 +860,9 @@
         "visited": "2017",
         "comments": "Home to the rare Dwarf Trout Lily; Waterfall",
         "activities": "Hiking trails, Snowshoe rental",
-        "camping": "Drive-in campsite, Pull-through campsite"
+        "camping": "Drive-in campsite, Pull-through campsite",
+        "photoType": "portrait",
+        "photo": "parks/NerstrandBigWoods.JPG"
       },
       "geometry": {
           "type": "Point",
@@ -900,7 +917,8 @@
         "visited": "2017",
         "comments": "Cart-in #1",
         "activities": "Canoe rental, Hiking trails, Kayak rental",
-        "camping": "Canoe-in campsite, Cart-in campsite, Drive-in campsite, Walk-in campsite"
+        "camping": "Canoe-in campsite, Cart-in campsite, Drive-in campsite, Walk-in campsite",
+        "photo": "parks/RiceLake.JPG"
       },
       "geometry": {
           "type": "Point",
@@ -955,7 +973,8 @@
         "visited": "2017",
         "comments": "",
         "activities": "Boat rental, Canoe rental, Hiking trails, Kayak rental, Paddleboard rental, Paved bike trail",
-        "camping": "Camper cabin, Drive-in campsite"
+        "camping": "Camper cabin, Drive-in campsite",
+        "photo": "parks/Sakatah.JPG"
       },
       "geometry": {
           "type": "Point",
@@ -1024,7 +1043,9 @@
         "visited": "2017",
         "comments": "Mount Tom (el. 1,375 ft.); Glacial Lakes State Trail",
         "activities": "Boat rental, Canoe rental, Groomed snowshoe trail, Hiking trails, Kayak rental, Paved bike trail, Snowshoe rental",
-        "camping": "Camper cabin, Drive-in campsite, Pull-through campsite"
+        "camping": "Camper cabin, Drive-in campsite, Pull-through campsite",
+        "photoType": "portrait",
+        "photo": "parks/Sibley.JPG"
       },
       "geometry": {
           "type": "Point",
@@ -1038,7 +1059,8 @@
         "visited": "2017",
         "comments": "",
         "activities": "Boat rental, Canoe rental, Hiking trails, Kayak rental, Paddleboard rental",
-        "camping": "Drive-in campsite"
+        "camping": "Drive-in campsite",
+        "photo": "parks/SplitRockCreek.JPG"
       },
       "geometry": {
           "type": "Point",
@@ -1053,7 +1075,8 @@
         "comments": "Lighthouse; Waterfalls; Pebble Beach; Gitchi-Gami State Trail",
         "activities": "Hiking trails, Paved bike trail",
         "camping": "Backpack-in campsite, Cart-in campsite, Kayak-in campsite",
-        "notes": "Cart-in site 18"
+        "notes": "Cart-in site 18",
+        "photo": "parks/SplitRockLighthouse.JPG"
       },
       "geometry": {
           "type": "Point",
@@ -1111,7 +1134,8 @@
         "comments": "Fire tower",
         "activities": "Hiking trails, Snowshoe rental",
         "camping": "Camper cabin, Cart-in campsite, Drive-in campsite, Pull-through campsite",
-        "notes": "Chimney rock trail/overlook, Cart-in site 2"
+        "notes": "Chimney rock trail/overlook, Cart-in site 2",
+        "photo": "parks/Whitewater.JPG"
       },
       "geometry": {
           "type": "Point",
@@ -1125,7 +1149,8 @@
         "visited": "2017",
         "comments": "Nevers Dam Overlook",
         "activities": "Canoe rental, Hiking trails, Kayak rental, Snowshoe rental",
-        "camping": "Backpack-in campsite, Camper cabin, Drive-in campsite, Guesthouse, Pull-through campsite"
+        "camping": "Backpack-in campsite, Camper cabin, Drive-in campsite, Guesthouse, Pull-through campsite",
+        "photo": "parks/WildRiver.JPG"
       },
       "geometry": {
           "type": "Point",
@@ -1139,7 +1164,8 @@
         "visited": "2017",
         "comments": "Nevers Dam Overlook",
         "activities": "Canoe rental, Groomed snowshoe trail, Hiking trails, Kayak rental, Paddleboard rental, Paved bike trail, Snowshoe rental",
-        "camping": "Camper cabin, Walk-in campsite"
+        "camping": "Camper cabin, Walk-in campsite",
+        "photo": "parks/WilliamOBrien.JPG"
       },
       "geometry": {
           "type": "Point",
