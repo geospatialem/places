@@ -49,7 +49,7 @@
       "type": "Feature",
       "properties": {
         "name": "Beaver Creek Valley State Park",
-        "visited": "N/A",
+        "visited": "Planned",
         "comments": "",
         "activities": "Hiking trails, Snowshoe rental",
         "camping": "Camper cabin, Drive-in campsite, Walk-in campsite"
@@ -273,7 +273,7 @@
       "type": "Feature",
       "properties": {
         "name": "Forestville Mystery Cave State Park",
-        "visited": "N/A",
+        "visited": "Planned",
         "comments": "Mystery cave and historic Forestville tours",
         "activities": "Hiking trails, Snowshoe rental",
         "camping": "Camper cabin, Drive-in campsite"
@@ -682,7 +682,7 @@
       "type": "Feature",
       "properties": {
         "name": "Lake Louise State Park",
-        "visited": "N/A",
+        "visited": "Planned",
         "comments": "Shooting Star State Trail",
         "activities": "Hiking trails, Paved bike trails",
         "camping": "Drive-in campsite"
