@@ -329,7 +329,7 @@
       "type": "Feature",
       "properties": {
         "name": "Frontenac State Park",
-        "visited": "N/A",
+        "visited": "Planned",
         "comments": "Birdwatching paradise",
         "activities": "Hiking trails, Snowshoe rental",
         "camping": "Backpack-in campsite, Cart-in campsite, Drive-in campsite"
@@ -429,7 +429,7 @@
       "type": "Feature",
       "properties": {
         "name": "Great River Bluffs State Park",
-        "visited": "N/A",
+        "visited": "Planned",
         "comments": "Blufftop views, including 5 scenic overlooks, of the Mississippi River Valley",
         "activities": "Snowshoe rental",
         "camping": "Drive-in campsite"
@@ -543,7 +543,7 @@
       "type": "Feature",
       "properties": {
         "name": "John A. Latsch State Park",
-        "visited": "N/A",
+        "visited": "Planned",
         "comments": "A half-mile hike (592 steps) up the deep ravine to Charity Peak for a panoramic view of the Mississippi River Valley",
         "activities": "Hiking trails",
         "camping": ""
