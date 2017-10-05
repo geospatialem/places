@@ -177,7 +177,7 @@
       "type": "Feature",
       "properties": {
         "name": "Charles A. Lindbergh State Park",
-        "visited": "Planned",
+        "visited": "2017",
         "comments": "",
         "activities": "Canoe rental, Hiking trails",
         "camping": "Drive-in campsite"
@@ -611,7 +611,7 @@
       "type": "Feature",
       "properties": {
         "name": "La Salle Lake State Recreation Area",
-        "visited": "Planned",
+        "visited": 2017",
         "comments": "La Salle Lake is Minnesota's deepest natural inland lake.",
         "activities": "Hiking trails",
         "camping": "Drive-in campsite"
@@ -639,7 +639,7 @@
       "type": "Feature",
       "properties": {
         "name": "Lake Bemidji State Park",
-        "visited": "2016",
+        "visited": "2017",
         "comments": "Tamarack bog walk",
         "activities": "Boat rental, Canoe rental, Hiking trails, Kayak rental, Snowshoe rental",
         "camping": "Camper cabin, Drive-in campsite, Pull-through campsite",
