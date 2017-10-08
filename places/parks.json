@@ -63,7 +63,7 @@
       "type": "Feature",
       "properties": {
         "name": "Big Bog State Park",
-        "visited": "Planned",
+        "visited": "2017",
         "comments": "Bog boardwalk",
         "activities": "Boat rental, Canoe rental, Hiking trails, Kayak rental",
         "camping": "Camper cabin, Drive-in campsite, Pull-through campsite"
@@ -149,7 +149,7 @@
       "type": "Feature",
       "properties": {
         "name": "Carley State Park",
-        "visited": "Planned",
+        "visited": "2017",
         "comments": "",
         "activities": "Hiking trails",
         "camping": "Drive-in campsite, Pull-through campsite"
@@ -232,7 +232,7 @@
       "type": "Feature",
       "properties": {
         "name": "Father Hennepin State Park",
-        "visited": "N/A",
+        "visited": "2017",
         "comments": "",
         "activities": "Hiking trails",
         "camping": "Drive-in campsite"
@@ -768,7 +768,7 @@
       "type": "Feature",
       "properties": {
         "name": "Mille Lacs Kathio State Park",
-        "visited": "N/A",
+        "visited": "2017",
         "comments": "Fire tower overlooking Mille Lacs Lake",
         "activities": "Boat rental, Canoe rental, Hiking trails, Kayak rental, Snowshoe rental",
         "camping": "Backpack-in campsite, Camper cabin, Drive-in campsite, Pull-through campsite"
@@ -1012,7 +1012,7 @@
       "type": "Feature",
       "properties": {
         "name": "Scenic State Park",
-        "visited": "Planned",
+        "visited": "2017",
         "comments": "Chase Point Trail",
         "activities": "Boat rental, Canoe rental, Hiking trail, Kayak rental, Paddleboard rental",
         "camping": "Backpack-in campsite, Boat-in campsite, Canoe-in campsite, Drive-in campsite, Pull-through campsite"
