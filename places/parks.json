@@ -66,7 +66,9 @@
         "visited": "2017",
         "comments": "Bog boardwalk",
         "activities": "Boat rental, Canoe rental, Hiking trails, Kayak rental",
-        "camping": "Camper cabin, Drive-in campsite, Pull-through campsite"
+        "camping": "Camper cabin, Drive-in campsite, Pull-through campsite",
+        "notes": "Check out the sunset over Upper Red Lake. Great camper cabins!",
+        "photo": "parks/BigBog.JPG"
       },
       "geometry": {
           "type": "Point",
@@ -92,10 +94,11 @@
       "properties": {
         "name": "Blue Mounds State Park",
         "visited": "2017",
-        "comments": "Bison, Tipi 1",
+        "comments": "Bison",
         "activities": "Canoe rental, Hiking trails, Paved bike trail",
         "camping": "Drive-in campsite, Tipi",
-        "photo": "parks/BlueMounds.JPG"
+        "photo": "parks/BlueMounds.JPG",
+        "notes": "Tipi 1"
       },
       "geometry": {
           "type": "Point",
@@ -180,7 +183,10 @@
         "visited": "2017",
         "comments": "",
         "activities": "Canoe rental, Hiking trails",
-        "camping": "Drive-in campsite"
+        "camping": "Drive-in campsite",
+        "photoType": "portrait",
+        "photo": "parks/CharlesLindbergh.JPG",
+        "notes": "Beautiful fall colors!"
       },
       "geometry": {
           "type": "Point",
@@ -235,7 +241,9 @@
         "visited": "2017",
         "comments": "",
         "activities": "Hiking trails",
-        "camping": "Drive-in campsite"
+        "camping": "Drive-in campsite",
+        "notes": "Great small park!",
+        "photo": "parks/FatherHennepin.JPG"
       },
       "geometry": {
           "type": "Point",
@@ -375,7 +383,8 @@
         "comments": "",
         "activities": "Canoe rental, Hiking trails, Kayak rental, Paddleboard rental, Paved bike trails",
         "camping": "Backpack-in campsite, Camper cabin, Drive-in campsite, Pull-through campsite",
-        "photo": "parks/GlacialLakes.JPG"
+        "photo": "parks/GlacialLakes.JPG",
+        "notes": "Beautiful hiking trails!"
       },
       "geometry": {
           "type": "Point",
@@ -614,7 +623,9 @@
         "visited": "2017",
         "comments": "La Salle Lake is Minnesota's deepest natural inland lake.",
         "activities": "Hiking trails",
-        "camping": "Drive-in campsite"
+        "notes": "Hiking club trail ends where La Salle Creek meets with the Mississippi.",
+        "camping": "Drive-in campsite",
+        "photo": "parks/LaSalleLake.JPG"
       },
       "geometry": {
           "type": "Point",
@@ -643,6 +654,7 @@
         "comments": "Tamarack bog walk",
         "activities": "Boat rental, Canoe rental, Hiking trails, Kayak rental, Snowshoe rental",
         "camping": "Camper cabin, Drive-in campsite, Pull-through campsite",
+        "photoType": "portrait",
         "photo": "parks/LakeBemidji.JPG"
       },
       "geometry": {
@@ -771,7 +783,10 @@
         "visited": "2017",
         "comments": "Fire tower overlooking Mille Lacs Lake",
         "activities": "Boat rental, Canoe rental, Hiking trails, Kayak rental, Snowshoe rental",
-        "camping": "Backpack-in campsite, Camper cabin, Drive-in campsite, Pull-through campsite"
+        "camping": "Backpack-in campsite, Camper cabin, Drive-in campsite, Pull-through campsite",
+        "notes": "Populated park",
+        "photoType": "portrait",
+        "photo": "parks/MilleLacsKathio.JPG"
       },
       "geometry": {
           "type": "Point",
@@ -915,9 +930,10 @@
       "properties": {
         "name": "Rice Lake State Park",
         "visited": "2017",
-        "comments": "Cart-in #1",
+        "comments": "",
         "activities": "Canoe rental, Hiking trails, Kayak rental",
         "camping": "Canoe-in campsite, Cart-in campsite, Drive-in campsite, Walk-in campsite",
+        "notes": "Cart in #1",
         "photo": "parks/RiceLake.JPG"
       },
       "geometry": {
@@ -1013,9 +1029,11 @@
       "properties": {
         "name": "Scenic State Park",
         "visited": "2017",
-        "comments": "Chase Point Trail",
+        "comments": "Chase Point Trail is on an esker, or a long, winding ridge of stratified sand and gravel from a glacier.",
         "activities": "Boat rental, Canoe rental, Hiking trail, Kayak rental, Paddleboard rental",
-        "camping": "Backpack-in campsite, Boat-in campsite, Canoe-in campsite, Drive-in campsite, Pull-through campsite"
+        "camping": "Backpack-in campsite, Boat-in campsite, Canoe-in campsite, Drive-in campsite, Pull-through campsite",
+        "photoType": "portrait",
+        "photo": "parks/Scenic.JPG"
       },
       "geometry": {
           "type": "Point",
