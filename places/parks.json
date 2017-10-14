@@ -522,6 +522,20 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Iron Range Off-Highway Vehicle State Recreation Area",
+        "visited": "N/A",
+        "comments": "Visit Minnesota's premier off-highway vehicle recreation area to ride 36 miles of scenic trails such as Attitude Alley, Quartz Mountain, and Jackpine Lane. No entrance fee required. Open daily May through October; weekends only with limited staffing late November to April.",
+        "activities": "Day-use only, OHV trails, Picnic shelter",
+        "camping": ""
+      },
+      "geometry": {
+          "type": "Point",
+          "coordinates": [-92.514518, 47.502278]
+        }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Itasca State Park",
         "visited": "2016",
         "comments": "Mississippi River Headwaters, Fire tower",
