@@ -35,10 +35,11 @@
       "type": "Feature",
       "properties": {
         "name": "Bear Head Lake State Park",
-        "visited": "N/A",
+        "visited": "Planned",
         "comments": "",
         "activities": "Canoe rental, Hiking trails, Kayak rental, Snowshoe rental",
-        "camping": "Backpack-in campsite, Boat-in campsite, Camper cabin, Canoe-in campsite, Drive-in campsite, Kayak-in campsite"
+        "camping": "Backpack-in campsite, Boat-in campsite, Camper cabin, Canoe-in campsite, Drive-in campsite, Kayak-in campsite",
+        "notes": "Planned October 2018"
       },
       "geometry": {
           "type": "Point",
@@ -52,7 +53,8 @@
         "visited": "Planned",
         "comments": "",
         "activities": "Hiking trails, Snowshoe rental",
-        "camping": "Camper cabin, Drive-in campsite, Walk-in campsite"
+        "camping": "Camper cabin, Drive-in campsite, Walk-in campsite",
+        "notes": "Planned July 2018"
       },
       "geometry": {
           "type": "Point",
@@ -155,7 +157,8 @@
         "visited": "Planned",
         "comments": "",
         "activities": "Hiking trails",
-        "camping": "Drive-in campsite, Pull-through campsite"
+        "camping": "Drive-in campsite, Pull-through campsite",
+        "notes": "Planned September 2018"
       },
       "geometry": {
           "type": "Point",
@@ -257,7 +260,8 @@
         "visited": "Planned",
         "comments": "",
         "activities": "Groomed snowshoe trails, Hiking trails, Snowshow rental",
-        "camping": "Camper cabin, Drive-in campsite, Pull-through campsite, Walk-in campsite"
+        "camping": "Camper cabin, Drive-in campsite, Pull-through campsite, Walk-in campsite",
+        "notes": "Planned September 2018"
       },
       "geometry": {
           "type": "Point",
@@ -270,7 +274,8 @@
         "name": "Flood Bay State Wayside",
         "visited": "Planned",
         "comments": "One of the top beach walks along the North Shore. A long pebble beach along the shores of Lake Superior, just outside Two Harbors. [Note: One vault toilet and No picnic tables].",
-        "activities": "Hiking trails"
+        "activities": "Hiking trails",
+        "notes": "Planned June 2018"
       },
       "geometry": {
           "type": "Point",
@@ -284,7 +289,8 @@
         "visited": "Planned",
         "comments": "Mystery cave and historic Forestville tours",
         "activities": "Hiking trails, Snowshoe rental",
-        "camping": "Camper cabin, Drive-in campsite"
+        "camping": "Camper cabin, Drive-in campsite",
+        "notes": "Planned July 2018"
       },
       "geometry": {
           "type": "Point",
@@ -298,7 +304,8 @@
         "visited": "Planned",
         "comments": "",
         "activities": "Hiking trails, Paved bike trails",
-        "camping": "Drive-in campsite, Pull-through campsite, Walk-in campsite"
+        "camping": "Drive-in campsite, Pull-through campsite, Walk-in campsite",
+        "notes": "Planned September 2018"
       },
       "geometry": {
           "type": "Point",
@@ -309,10 +316,11 @@
       "type": "Feature",
       "properties": {
         "name": "Fort Snelling State Park",
-        "visited": "N/A",
+        "visited": "Planned",
         "comments": "",
         "activities": "Canoe rental, Groomed snowshoe trails, Kayak rental, Snowshoe rental, Paved bike trails",
-        "camping": ""
+        "camping": "",
+        "notes": "Planned October 2017"
       },
       "geometry": {
           "type": "Point",
@@ -340,7 +348,8 @@
         "visited": "Planned",
         "comments": "Birdwatching paradise",
         "activities": "Hiking trails, Snowshoe rental",
-        "camping": "Backpack-in campsite, Cart-in campsite, Drive-in campsite"
+        "camping": "Backpack-in campsite, Cart-in campsite, Drive-in campsite",
+        "notes": "Planned September 2018"
       },
       "geometry": {
           "type": "Point",
@@ -398,7 +407,8 @@
         "visited": "Planned",
         "comments": "Fall color destination",
         "activities": "Boat rental, Canoe rental, Kayak rental, Paddleboard rental, Paved bike trails, Snowshoe rental",
-        "camping": "Backpack-in campsite, Camper cabin, Canoe-in campsite, Cart-in campsite, Kayak-in campsite, Yurt"
+        "camping": "Backpack-in campsite, Camper cabin, Canoe-in campsite, Cart-in campsite, Kayak-in campsite, Yurt",
+        "notes": "Planned May 2018"
       },
       "geometry": {
           "type": "Point",
@@ -427,7 +437,8 @@
         "visited": "Planned",
         "comments": "Minnesota's highest waterfall; no entry fee",
         "activities": "Groomed snowshoe trail, Hiking trails, Snowshoe rental",
-        "camping": ""
+        "camping": "",
+        "notes": "Planned June 2018"
       },
       "geometry": {
           "type": "Point",
@@ -441,7 +452,8 @@
         "visited": "Planned",
         "comments": "Blufftop views, including 5 scenic overlooks, of the Mississippi River Valley",
         "activities": "Snowshoe rental",
-        "camping": "Drive-in campsite"
+        "camping": "Drive-in campsite",
+        "notes": "Planned September 2018"
       },
       "geometry": {
           "type": "Point",
@@ -496,7 +508,8 @@
         "name": "Inspiration Peak State Wayside",
         "visited": "Planned",
         "comments": "A winding trail to the summit passes through a beautiful hardwood forest that opens to an expanse of rolling prairie hills. Rising 400 feet above the surrounding countryside, Inspiration Peak offers spectacular views in three directions. The native prairie on the top of the peak has been there for hundreds of years, and showcases many beautiful prairie wildflowers. Nobel Prize-winning novelist Sinclair Lewis shared his passion for this peak with his readers. [Note: Sanitation facilities and picnic tables present].",
-        "activities": "Hiking trails"
+        "activities": "Hiking trails",
+        "notes": "Planned May 2018"
       },
       "geometry": {
           "type": "Point",
@@ -523,10 +536,11 @@
       "type": "Feature",
       "properties": {
         "name": "Iron Range Off-Highway Vehicle State Recreation Area",
-        "visited": "N/A",
+        "visited": "Planned",
         "comments": "Visit Minnesota's premier off-highway vehicle recreation area to ride 36 miles of scenic trails such as Attitude Alley, Quartz Mountain, and Jackpine Lane. No entrance fee required. Open daily May through October; weekends only with limited staffing late November to April.",
         "activities": "Day-use only, OHV trails, Picnic shelter",
-        "camping": ""
+        "camping": "",
+        "notes": "Planned October 2018"
       },
       "geometry": {
           "type": "Point",
@@ -552,10 +566,11 @@
       "type": "Feature",
       "properties": {
         "name": "Jay Cooke State Park",
-        "visited": "N/A",
+        "visited": "Planned",
         "comments": "Swinging bridge over the St. Louis River; Thomson bridge",
         "activities": "Hiking trails, Paved bike trails, Snowshoe rental",
-        "camping": "Backpack-in camping, Camper cabin, Drive-in campsite, Pull-through campsite, Walk-in campsite"
+        "camping": "Backpack-in camping, Camper cabin, Drive-in campsite, Pull-through campsite, Walk-in campsite",
+        "notes": "Planned October 2018"
       },
       "geometry": {
           "type": "Point",
@@ -569,7 +584,8 @@
         "visited": "Planned",
         "comments": "A half-mile hike (592 steps) up the deep ravine to Charity Peak for a panoramic view of the Mississippi River Valley",
         "activities": "Hiking trails",
-        "camping": ""
+        "camping": "",
+        "notes": "Planned September 2018"
       },
       "geometry": {
           "type": "Point",
@@ -582,7 +598,8 @@
         "name": "Joseph R. Brown State Wayside",
         "visited": "Planned",
         "comments": "2012 marked 150 years since the U.S.-Dakota War of 1862. This wayside features the ruins of Joseph R. Brown's three-story mansion, destroyed during the Dakota War of 1862. [Note: No sanitation facilities and one picnic tables present].",
-        "activities": "Hiking trails"
+        "activities": "Hiking trails",
+        "notes": "Planned September 2018"
       },
       "geometry": {
           "type": "Point",
@@ -596,7 +613,8 @@
         "visited": "Planned",
         "comments": "Devil's Kettle waterfall",
         "activities": "Hiking trails",
-        "camping": "Drive-in campsite"
+        "camping": "Drive-in campsite",
+        "notes": "Planned June 2018"
       },
       "geometry": {
           "type": "Point",
@@ -623,7 +641,8 @@
         "name": "Kadunce River State Wayside",
         "visited": "Planned",
         "comments": "Access the Kodonce River Gorge via a Superior Hiking Trail spur. Off from the rest area, enjoy a walk down to Lake Superior beachfront along the mouth of the Kodonce River. [Note: No sanitation facilities, but picnic tables are present].",
-        "activities": "Hiking trails"
+        "activities": "Hiking trails",
+        "notes": "Planned June 2018"
       },
       "geometry": {
           "type": "Point",
@@ -653,7 +672,8 @@
         "visited": "Planned",
         "comments": "",
         "activities": "Canoe rental, Hiking trails, Kayak rental, Snowshoe rental",
-        "camping": "Camper cabin, Drive-in campsite, Pull-through campsite, Walk-in campsite"
+        "camping": "Camper cabin, Drive-in campsite, Pull-through campsite, Walk-in campsite",
+        "notes": "Planned September 2018"
       },
       "geometry": {
           "type": "Point",
@@ -697,7 +717,8 @@
         "visited": "Planned",
         "comments": "",
         "activities": "Boat rental, Canoe rental, Hiking trails",
-        "camping": "Camper cabin, Drive-in campsite"
+        "camping": "Camper cabin, Drive-in campsite",
+        "notes": "Planned May 2018"
       },
       "geometry": {
           "type": "Point",
@@ -711,7 +732,8 @@
         "visited": "Planned",
         "comments": "Shooting Star State Trail",
         "activities": "Hiking trails, Paved bike trails",
-        "camping": "Drive-in campsite"
+        "camping": "Drive-in campsite",
+        "notes": "Planned July 2018"
       },
       "geometry": {
           "type": "Point",
@@ -780,10 +802,11 @@
       "type": "Feature",
       "properties": {
         "name": "McCarthy Beach State Park",
-        "visited": "N/A",
+        "visited": "Planned",
         "comments": "Nationally recognized beach.",
         "activities": "Boat rental, Canoe rental, Hiking trails, Kayak rental, Paddleboard rental",
-        "camping": "Drive-in campsite, Walk-in campsite"
+        "camping": "Drive-in campsite, Walk-in campsite",
+        "notes": "Planned October 2018"
       },
       "geometry": {
           "type": "Point",
@@ -827,10 +850,11 @@
       "type": "Feature",
       "properties": {
         "name": "Minnesota Valley State Recreation Area",
-        "visited": "N/A",
+        "visited": "Planned",
         "comments": "Minnesota Valley State Trail",
         "activities": "Hiking trails, Paved bike trails",
-        "camping": "Backpack-in campsite, Walk-in campsite"
+        "camping": "Backpack-in campsite, Walk-in campsite",
+        "notes": "Planned October 2017"
       },
       "geometry": {
           "type": "Point",
@@ -859,7 +883,8 @@
         "visited": "Planned",
         "comments": "Agate and Geological Interpretive Center",
         "activities": "Boat rental, Canoe rental, Hiking trails, Kayak rental, Paved bike trails",
-        "camping": "Drive-in campsite, Walk-in campsite"
+        "camping": "Drive-in campsite, Walk-in campsite",
+        "notes": "Planned June 2018"
       },
       "geometry": {
           "type": "Point",
@@ -986,10 +1011,11 @@
       "type": "Feature",
       "properties": {
         "name": "St. Croix State Park",
-        "visited": "N/A",
+        "visited": "Planned",
         "comments": "Largest state park in Minnesota; Fire tower",
         "activities": "Canoe rental, Hiking trails, Kayak rental, Paved bike trail, Snowshoe rental",
-        "camping": "Backpack campsite, Drive-in campsite, Walk-in campsite"
+        "camping": "Backpack campsite, Drive-in campsite, Walk-in campsite",
+        "notes": "Planned October 2018"
       },
       "geometry": {
           "type": "Point",
@@ -1017,7 +1043,8 @@
         "name": "Sam Brown Memorial State Wayside",
         "visited": "N/A",
         "comments": "2012 marked 150 years since the U.S.-Dakota War of 1862. Created to honor Joseph R. Brown's son Samuel J. Brown, the 'Paul Revere of the West,' who rode 120 miles through a storm on April 19, 1866 to warn of an expected Dakota attack. [Note: One vault toilet].",
-        "activities": "Historical marker"
+        "activities": "Historical marker",
+        "notes": "Planned September 2018"
       },
       "geometry": {
           "type": "Point",
@@ -1028,10 +1055,11 @@
       "type": "Feature",
       "properties": {
         "name": "Savanna Portage State Park",
-        "visited": "N/A",
+        "visited": "Planned",
         "comments": "Continental divide",
         "activities": "Boat rental, Canoe rental, Hiking trails, Snowshoe rental",
-        "camping": "Backpack-in campsite, Camper cabin, Canoe-in campsite, Drive-in campsite, Guesthouse, Pull-through campsite"
+        "camping": "Backpack-in campsite, Camper cabin, Canoe-in campsite, Drive-in campsite, Guesthouse, Pull-through campsite",
+        "notes": "Planned October 2018"
       },
       "geometry": {
           "type": "Point",
@@ -1151,7 +1179,8 @@
         "visited": "Planned",
         "comments": "",
         "activities": "Hiking trails",
-        "camping": "Drive-in campsite, Pull-through campsite, Tipi, Walk-in campsite"
+        "camping": "Drive-in campsite, Pull-through campsite, Tipi, Walk-in campsite",
+        "notes": "Planned September 2018"
       },
       "geometry": {
           "type": "Point",
