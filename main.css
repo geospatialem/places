@@ -24,9 +24,10 @@ body,
   box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
   border-radius: 0.2em;
 }
-.attributeWindow h4 {
+.attributeWindow h2 {
+  font-size: 14px;
   margin: 0 0 0.2em;
-  color: #777;
+  color: #595959;
 }
 /* end Attribute window */
 

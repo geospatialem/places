@@ -151,13 +151,13 @@ map.on('overlayadd', function (layer) {
   if (layer.name == "State Parks") {
     var activeLayer = mnParks;
     var getMNParksPercent = ((visitedMNparks/83) * 100).toFixed(0);
-    attributeWindow._div.innerHTML = '<h4>State Parks</h4>' +
+    attributeWindow._div.innerHTML = '<h2>State Parks</h2>' +
     "<p><b>Planned:</b> " + plannedMNparks + "<br />" +
     "<b>Visited:</b> " + visitedMNparks + " of " + mnParks.getLayers().length + " (" + getMNParksPercent + "%)</p>";
   } else {
     var activeLayer = mlbBallparks;
     var getMLBParksPercent = ((visitedMLBparks/30) * 100).toFixed(1);
-    attributeWindow._div.innerHTML = '<h4>Ballparks</h4>' +
+    attributeWindow._div.innerHTML = '<h2>Ballparks</h2>' +
     "<p><b>Planned:</b> " + plannedMLBparks + "<br />" +
     "<b>Visited:</b> " + visitedMLBparks + " of " + mlbBallparks.getLayers().length + " (" + getMLBParksPercent + "%)</p>";
   }
