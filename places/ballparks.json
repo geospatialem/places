@@ -73,7 +73,8 @@
       "properties": {
         "teamName": "Chicago Cubs",
         "ballparkName": "Wrigley Field",
-        "visited": "N/A"
+        "visited": "Planned",
+        "notes": "Planned June 2018"
       }
     },
     {
@@ -88,7 +89,8 @@
       "properties": {
         "teamName": "Chicago White Sox",
         "ballparkName": "Guaranteed Rate Field",
-        "visited": "N/A"
+        "visited": "Planned",
+        "notes": "Planned June 2018"
       }
     },
     {
@@ -238,7 +240,8 @@
       "properties": {
         "teamName": "Milwaukee Brewers",
         "ballparkName": "Miller Park",
-        "visited": "N/A"
+        "visited": "Planned",
+        "notes": "Planned July 2018"
       }
     },
     {
