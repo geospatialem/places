@@ -84,6 +84,8 @@ function setPopupContent (feature, layer) {
     popupContent += "<div class='center'>";
     if (feature.properties.photoType == "portrait") {
       popupContent += "<img class='popupPortrait' src='photos/" + feature.properties.photo + "'></img>";
+    } else if (feature.properties.photoType == "ballpark") {
+      popupContent += "<img class='ballparkPhoto' src='photos/" + feature.properties.photo + "'></img>";
     } else {
       popupContent += "<img class='popupPhoto' src='photos/" + feature.properties.photo + "'></img>";
     }

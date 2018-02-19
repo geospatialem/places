@@ -35,6 +35,10 @@ body,
 img {
   padding-top: 1em;
 }
+.ballparkPhoto {
+  width: 15em;
+  height: 12em;
+}
 .popupPhoto {
   width: 20em;
   height: 20em;

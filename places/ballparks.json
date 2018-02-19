@@ -135,7 +135,9 @@
       "properties": {
         "teamName": "Colorado Rockies",
         "ballparkName": "Coors Field",
-        "visited": 2016
+        "visited": 2016,
+        "photoType": "ballpark",
+        "photo": "ballparks/CoorsField.JPG"
       }
     },
     {
@@ -165,7 +167,9 @@
       "properties": {
         "teamName": "Miami Marlins",
         "ballparkName": "Marlins Park",
-        "visited": 2012
+        "visited": 2012,
+        "photoType": "ballpark",
+        "photo": "ballparks/MarlinsPark.JPG"
       }
     },
     {
@@ -195,7 +199,9 @@
       "properties": {
         "teamName": "Kansas City Royals",
         "ballparkName": "Kauffman Stadium",
-        "visited": "2017"
+        "visited": "2017",
+        "photoType": "portrait",
+        "photo": "ballparks/KauffmanStadium.JPG"
       }
     },
     {
@@ -256,7 +262,9 @@
       "properties": {
         "teamName": "Minnesota Twins",
         "ballparkName": "Target Field",
-        "visited": 2017
+        "visited": 2017,
+        "photoType": "portrait",
+        "photo": "ballparks/TargetField.JPG"
       }
     },
     {
@@ -376,7 +384,9 @@
       "properties": {
         "teamName": "Seattle Mariners",
         "ballparkName": "Safeco Field",
-        "visited": 2010
+        "visited": 2010,
+        "photoType": "ballpark",
+        "photo": "ballparks/SafecoField.JPG"
       }
     },
     {
@@ -391,7 +401,9 @@
       "properties": {
         "teamName": "St. Louis Cardinals",
         "ballparkName": "Busch Stadium",
-        "visited": "2017"
+        "visited": "2017",
+        "photoType": "ballpark",
+        "photo": "ballparks/BuschStadium.JPG"
       }
     },
     {
