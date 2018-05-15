@@ -154,11 +154,13 @@
       "type": "Feature",
       "properties": {
         "name": "Carley State Park",
-        "visited": "Planned",
+        "visited": "2018",
         "comments": "",
         "activities": "Hiking trails",
         "camping": "Drive-in campsite, Pull-through campsite",
-        "notes": "Planned September 2018"
+        "photoType": "portrait",
+        "photo": "parks/Carley.JPG",
+        "notes": "Virginia Bluebells and White Trout Lilies bloom in May."
       },
       "geometry": {
           "type": "Point",
@@ -1191,7 +1193,7 @@
       "type": "Feature",
       "properties": {
         "name": "Whitewater State Park",
-        "visited": "2017",
+        "visited": "2018",
         "comments": "Fire tower",
         "activities": "Hiking trails, Snowshoe rental",
         "camping": "Camper cabin, Cart-in campsite, Drive-in campsite, Pull-through campsite",
