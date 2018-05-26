@@ -140,9 +140,10 @@
       "type": "Feature",
       "properties": {
         "name": "Caribou Falls State Wayside",
-        "visited": "N/A",
+        "visited": "Planned",
         "comments": "Superior Hiking Trail access. A 3/4 mile trail along the Caribou River to Caribou Falls (35-ft waterfall), and also provides stunning views of Lake Superior and the Caribou River gorge. [Note: No sanitation facilities and No picnic tables].",
-        "activities": "Hiking trails"
+        "activities": "Hiking trails",
+        "notes": "Planned May 2019"
 
       },
       "geometry": {
@@ -171,10 +172,11 @@
       "type": "Feature",
       "properties": {
         "name": "Cascade River State Park",
-        "visited": "N/A",
+        "visited": "Planned",
         "comments": "Waterfalls! Hike to the top of Moose Mountain (el. 1,148 ft.) and Lookout Mountain (el. 1,200 ft.)",
         "activities": "Hiking trails, Snowshoe rental",
-        "camping": "Backpack-in campsite, Drive-in campsite, Kayak-in campsite, Pull-through campsite"
+        "camping": "Backpack-in campsite, Drive-in campsite, Kayak-in campsite, Pull-through campsite",
+        "notes": "Planned May 2019"
       },
       "geometry": {
           "type": "Point",
@@ -230,9 +232,10 @@
       "type": "Feature",
       "properties": {
         "name": "Devils Track Falls State Wayside",
-        "visited": "N/A",
+        "visited": "Planned",
         "comments": "Access to Devils Track is off the Gunflint Trail via the Superior Hiking Trail. It is a two-mile hike, one way, to reach the wayside. From here you can visit Pincushion Mountain, a rock outcrop overlooking Lake Superior. [Note: No sanitation facilities and No picnic tables].",
-        "activities": "Hiking trails"
+        "activities": "Hiking trails",
+        "notes": "Planned June 2018"
       },
       "geometry": {
           "type": "Point",
@@ -322,7 +325,7 @@
         "comments": "",
         "activities": "Canoe rental, Groomed snowshoe trails, Kayak rental, Snowshoe rental, Paved bike trails",
         "camping": "",
-        "notes": "Planned April 2018"
+        "notes": "Planned June 2018"
       },
       "geometry": {
           "type": "Point",
@@ -376,10 +379,11 @@
       "type": "Feature",
       "properties": {
         "name": "George H. Crosby Manitou State Park",
-        "visited": "N/A",
+        "visited": "Planned",
         "comments": "Waterfalls",
         "activities": "Hiking trails",
-        "camping": "Backpack-in campsite"
+        "camping": "Backpack-in campsite",
+        "notes": "Planned May 2019"
       },
       "geometry": {
           "type": "Point",
@@ -469,7 +473,8 @@
         "visited": "Planned",
         "comments": "",
         "activities": "Hiking trails",
-        "camping": ""
+        "camping": "",
+        "notes": "Planned July 2018"
       },
       "geometry": {
           "type": "Point",
@@ -856,7 +861,7 @@
         "comments": "Minnesota Valley State Trail",
         "activities": "Hiking trails, Paved bike trails",
         "camping": "Backpack-in campsite, Walk-in campsite",
-        "notes": "Planned April 2018"
+        "notes": "Planned June 2018"
       },
       "geometry": {
           "type": "Point",
@@ -943,9 +948,10 @@
       "type": "Feature",
       "properties": {
         "name": "Ray Berglund State Wayside",
-        "visited": "N/A",
+        "visited": "Planned",
         "comments": "A 1/2 mile, primitive trail along the bluffs overlooks the Onion River. A good view of Lake Superior from across U.S. Highway 61 and the Gitchi Gami State Trail.[Note: Seasonal sanitation facilities, and picnic tables present overlooking Lake Superior].",
-        "activities": "Hiking trails"
+        "activities": "Hiking trails",
+        "notes": "Planned May 2019"
       },
       "geometry": {
           "type": "Point",
@@ -1149,10 +1155,11 @@
       "type": "Feature",
       "properties": {
         "name": "Temperance River State Park",
-        "visited": "N/A",
+        "visited": "Planned",
         "comments": "Waterfalls; Take the Superior Hiking Trail through the gorge to Carlton Peak (el. 1,526 ft.)",
         "activities": "Hiking trails, Paved bike trail",
-        "camping": "Cart-in campsite, Pull-through campsite"
+        "camping": "Cart-in campsite, Pull-through campsite",
+        "notes": "Planned May 2019"
       },
       "geometry": {
           "type": "Point",
@@ -1167,7 +1174,7 @@
         "comments": "Several waterfalls along the Baptism River, including High Falls, the highest waterfall entirely inside Minnesota's border.",
         "activities": "Canoe rental, Hiking trails, Snowshoe rental",
         "camping": "Cart-in campsite, Drive-in campsite, Kayak-in campsite, Walk-in campsite",
-        "notes": "Shovel point"
+        "notes": "Shovel point, Planned May 2019"
       },
       "geometry": {
           "type": "Point",
