@@ -410,11 +410,12 @@
       "type": "Feature",
       "properties": {
         "name": "Glendalough State Park",
-        "visited": "Planned",
+        "visited": "2018",
         "comments": "Fall color destination",
         "activities": "Boat rental, Canoe rental, Kayak rental, Paddleboard rental, Paved bike trails, Snowshoe rental",
         "camping": "Backpack-in campsite, Camper cabin, Canoe-in campsite, Cart-in campsite, Kayak-in campsite, Yurt",
-        "notes": "Planned May 2018"
+        "notes": "Canoe-in yurts",
+        "photo": "parks/Glendalough.JPG"
       },
       "geometry": {
           "type": "Point",
@@ -513,10 +514,12 @@
       "type": "Feature",
       "properties": {
         "name": "Inspiration Peak State Wayside",
-        "visited": "Planned",
+        "visited": "2018",
         "comments": "A winding trail to the summit passes through a beautiful hardwood forest that opens to an expanse of rolling prairie hills. Rising 400 feet above the surrounding countryside, Inspiration Peak offers spectacular views in three directions. The native prairie on the top of the peak has been there for hundreds of years, and showcases many beautiful prairie wildflowers. Nobel Prize-winning novelist Sinclair Lewis shared his passion for this peak with his readers. [Note: Sanitation facilities and picnic tables present].",
         "activities": "Hiking trails",
-        "notes": "Planned May 2018"
+        "notes": "Shorter hike, around 15-mins round-trip, but steep throughout.",
+        "photoType": "portrait",
+        "photo": "parks/InspirationPeak.JPG"
       },
       "geometry": {
           "type": "Point",
@@ -721,11 +724,12 @@
       "type": "Feature",
       "properties": {
         "name": "Lake Carlos State Park",
-        "visited": "Planned",
+        "visited": "2018",
         "comments": "",
         "activities": "Boat rental, Canoe rental, Hiking trails",
         "camping": "Camper cabin, Drive-in campsite",
-        "notes": "Planned May 2018"
+        "notes": "Historic places bath house converted to a public restroom near the beach.",
+        "photo": "parks/LakeCarlos.JPG"
       },
       "geometry": {
           "type": "Point",
