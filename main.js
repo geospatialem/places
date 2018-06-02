@@ -139,31 +139,35 @@ function setColor (value) {
 }
 
 var overlayMaps = {
-    "State Parks": mnParks,
-    "Ballparks": mlbBallparks
+    "<b>State Parks</b><span><br/><span id='visited' class='legendSymbol'></span> Visited<br/><span id='planned' class='legendSymbol'></span>  Planned<br/><span id='remaining' class='legendSymbol'></span>  Remaining</span>": mnParks,
+    "<b>Ballparks</b><span><br/><span id='visited' class='legendSymbol'></span>  Visited<br/><span id='planned' class='legendSymbol'></span>  Planned<br/><span id='remaining' class='legendSymbol'></span>  Remaining<br/><span id='mlbSolo' class='legendSymbol'></span> Solo visit</span>": mlbBallparks,
 };
 
 L.control.layers(null, overlayMaps, {
   collapsed: collapseLegend
 }).addTo(map);
 
-
 //Zoom to the respective layer if checking it on in the legend
+//If another layer is active, emit a click to remove it from the map view.
 map.on('overlayadd', function (layer) {
-  if (layer.name == "State Parks") {
+  var toggleItem;
+  if (layer.name.indexOf("State Parks") >= 0) {
     var activeLayer = mnParks;
     var getMNParksPercent = ((visitedMNparks/83) * 100).toFixed(0);
     attributeWindow._div.innerHTML = '<h2>State Parks</h2>' +
     "<p><b>Planned:</b> " + plannedMNparks + "<br />" +
     "<b>Visited:</b> " + visitedMNparks + " of " + mnParks.getLayers().length + " (" + getMNParksPercent + "%)</p>";
+    toggleItem = $(".leaflet-control-layers-selector")[1];
   } else {
     var activeLayer = mlbBallparks;
     var getMLBParksPercent = ((visitedMLBparks/30) * 100).toFixed(1);
     attributeWindow._div.innerHTML = '<h2>Ballparks</h2>' +
     "<p><b>Planned:</b> " + plannedMLBparks + "<br />" +
     "<b>Visited:</b> " + visitedMLBparks + " of " + mlbBallparks.getLayers().length + " (" + getMLBParksPercent + "%)</p>";
+    toggleItem = $(".leaflet-control-layers-selector")[0];
   }
   map.fitBounds(activeLayer.getBounds());
+  if (toggleItem.checked) { $(toggleItem).trigger('click'); }
 });
 
 var attributeWindow = L.control({position: 'bottomleft'});

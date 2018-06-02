@@ -48,3 +48,33 @@ img {
   height: 20em;
 }
 /* end Popup images */
+
+/* Legend symbols */
+.legendSymbol {
+  float: left;
+  width: 0.7em;
+  height: 0.7em;
+  margin: 0% 2% 0% 5%;
+  border-radius: 1em;
+}
+
+#remaining {
+  border: 0.1em solid #8E0152;
+  background: #8E0152;
+}
+
+#planned {
+  border: 0.1em solid #DE77AE;
+  background: #DE77AE;
+}
+
+#mlbSolo {
+  border: 0.1em solid #A1D76A;
+  background: #A1D76A;
+}
+
+#visited {
+  border: 0.1em solid #276419;
+  background: #276419;
+}
+/* end Legend symbols */
