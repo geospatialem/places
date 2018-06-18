@@ -235,7 +235,7 @@
         "visited": "Planned",
         "comments": "Access to Devils Track is off the Gunflint Trail via the Superior Hiking Trail. It is a two-mile hike, one way, to reach the wayside. From here you can visit Pincushion Mountain, a rock outcrop overlooking Lake Superior. [Note: No sanitation facilities and No picnic tables].",
         "activities": "Hiking trails",
-        "notes": "Planned June 2018"
+        "notes": "Planned May 2019"
       },
       "geometry": {
           "type": "Point",
@@ -277,10 +277,11 @@
       "type": "Feature",
       "properties": {
         "name": "Flood Bay State Wayside",
-        "visited": "Planned",
+        "visited": "2018",
         "comments": "One of the top beach walks along the North Shore. A long pebble beach along the shores of Lake Superior, just outside Two Harbors. [Note: One vault toilet and No picnic tables].",
         "activities": "Hiking trails",
-        "notes": "Planned June 2018"
+        "notes": "",
+        "photo": "parks/FloodBay.JPG"
       },
       "geometry": {
           "type": "Point",
@@ -426,7 +427,7 @@
       "type": "Feature",
       "properties": {
         "name": "Gooseberry State Park",
-        "visited": "2017",
+        "visited": "2018",
         "comments": "Waterfalls",
         "activities": "Hiking trails, Paved bike trails",
         "camping": "Drive-in campsite, Kayak-in campsite, Pull-through campsite",
@@ -441,11 +442,13 @@
       "type": "Feature",
       "properties": {
         "name": "Grand Portage State Park",
-        "visited": "Planned",
+        "visited": "2018",
         "comments": "Minnesota's highest waterfall; no entry fee",
         "activities": "Groomed snowshoe trail, Hiking trails, Snowshoe rental",
         "camping": "",
-        "notes": "Planned June 2018"
+        "notes": "",
+        "photoType": "portrait",
+        "photo": "parks/GrandPortage.JPG"
       },
       "geometry": {
           "type": "Point",
@@ -620,11 +623,13 @@
       "type": "Feature",
       "properties": {
         "name": "Judge C. R. Magney State Park",
-        "visited": "Planned",
+        "visited": "2018",
         "comments": "Devil's Kettle waterfall",
         "activities": "Hiking trails",
         "camping": "Drive-in campsite",
-        "notes": "Planned June 2018"
+        "notes": "",
+        "photoType": "portrait",
+        "photo": "parks/JudgeCRMagney.JPG"
       },
       "geometry": {
           "type": "Point",
@@ -649,10 +654,11 @@
       "type": "Feature",
       "properties": {
         "name": "Kadunce River State Wayside",
-        "visited": "Planned",
+        "visited": "2018",
         "comments": "Access the Kodonce River Gorge via a Superior Hiking Trail spur. Off from the rest area, enjoy a walk down to Lake Superior beachfront along the mouth of the Kodonce River. [Note: No sanitation facilities, but picnic tables are present].",
         "activities": "Hiking trails",
-        "notes": "Planned June 2018"
+        "notes": "",
+        "photo": "parks/KadunceRiver.JPG"
       },
       "geometry": {
           "type": "Point",
@@ -891,11 +897,13 @@
       "type": "Feature",
       "properties": {
         "name": "Moose Lake State Park",
-        "visited": "Planned",
+        "visited": "2018",
         "comments": "Agate and Geological Interpretive Center",
         "activities": "Boat rental, Canoe rental, Hiking trails, Kayak rental, Paved bike trails",
         "camping": "Drive-in campsite, Walk-in campsite",
-        "notes": "Planned June 2018"
+        "notes": "Beautiful and quiet, right off I-35",
+        "photoType": "portrait",
+        "photo": "parks/MooseLake.JPG"
       },
       "geometry": {
           "type": "Point",
@@ -1143,7 +1151,7 @@
       "type": "Feature",
       "properties": {
         "name": "Split Rock Lighthouse State Park",
-        "visited": "2017",
+        "visited": "2018",
         "comments": "Lighthouse; Waterfalls; Pebble Beach; Gitchi-Gami State Trail",
         "activities": "Hiking trails, Paved bike trail",
         "camping": "Backpack-in campsite, Cart-in campsite, Kayak-in campsite",
