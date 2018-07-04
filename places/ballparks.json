@@ -73,7 +73,9 @@
       "properties": {
         "teamName": "Chicago Cubs",
         "ballparkName": "Wrigley Field",
-        "visited": "2018"
+        "visited": "2018",
+        "photoType": "ballpark",
+        "photo": "ballparks/WrigleyField.JPG"
       }
     },
     {
@@ -88,7 +90,9 @@
       "properties": {
         "teamName": "Chicago White Sox",
         "ballparkName": "Guaranteed Rate Field",
-        "visited": "2018"
+        "visited": "2018",
+        "photoType": "ballpark",
+        "photo": "ballparks/GuaranteedRateField.JPG"
       }
     },
     {
@@ -244,7 +248,9 @@
       "properties": {
         "teamName": "Milwaukee Brewers",
         "ballparkName": "Miller Park",
-        "visited": "2018"
+        "visited": "2018",
+        "photoType": "ballpark",
+        "photo": "ballparks/MillerPark.JPG"
       }
     },
     {
