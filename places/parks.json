@@ -50,11 +50,12 @@
       "type": "Feature",
       "properties": {
         "name": "Beaver Creek Valley State Park",
-        "visited": "Planned",
+        "visited": "2018",
         "comments": "",
         "activities": "Hiking trails, Snowshoe rental",
-        "camping": "Camper cabin, Drive-in campsite, Walk-in campsite",
-        "notes": "Planned July 2018"
+        "camping": "Camper cabin, Drive-in campsite, Walk-in campsite, Cart-in campsite",
+        "notes": "Big Spring, Amazing hiking trails, Cart-in #43",
+        "photo": "parks/BeaverCreekValley.JPG"
       },
       "geometry": {
           "type": "Point",
@@ -293,11 +294,12 @@
       "type": "Feature",
       "properties": {
         "name": "Forestville Mystery Cave State Park",
-        "visited": "Planned",
+        "visited": "2018",
         "comments": "Mystery cave and historic Forestville tours",
         "activities": "Hiking trails, Snowshoe rental",
         "camping": "Camper cabin, Drive-in campsite",
-        "notes": "Planned July 2018"
+        "notes": "Geology cave tour",
+        "photo": "parks/ForestvilleMystery.JPG"
       },
       "geometry": {
           "type": "Point",
@@ -748,11 +750,12 @@
       "type": "Feature",
       "properties": {
         "name": "Lake Louise State Park",
-        "visited": "Planned",
+        "visited": "2018",
         "comments": "Shooting Star State Trail",
         "activities": "Hiking trails, Paved bike trails",
         "camping": "Drive-in campsite",
-        "notes": "Planned July 2018"
+        "notes": "Beautiful well-marked hiking club trail. Don't forget to venture off the trail to see some great views from bridges.",
+        "photo": "parks/LakeLouise.JPG"
       },
       "geometry": {
           "type": "Point",
