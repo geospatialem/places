@@ -206,10 +206,11 @@
       "type": "Feature",
       "properties": {
         "name": "Crow Wing State Park",
-        "visited": "N/A",
+        "visited": "Planned",
         "comments": "",
         "activities": "Canoe rental, Hiking trails",
-        "camping": "Camper cabin, Drive-in campsite"
+        "camping": "Camper cabin, Drive-in campsite",
+        "notes": "Planned June 2019"
       },
       "geometry": {
           "type": "Point",
@@ -220,10 +221,11 @@
       "type": "Feature",
       "properties": {
         "name": "Cuyuna Country State Recreation Area",
-        "visited": "N/A",
+        "visited": "Planned",
         "comments": "Croft Mine historic site",
         "activities": "Hiking trails, Paved bike trail",
-        "camping": "Drive-in campsite, Yurt"
+        "camping": "Drive-in campsite, Yurt",
+        "notes": "Planned June 2019"
       },
       "geometry": {
           "type": "Point",
@@ -329,7 +331,7 @@
         "comments": "",
         "activities": "Canoe rental, Groomed snowshoe trails, Kayak rental, Snowshoe rental, Paved bike trails",
         "camping": "",
-        "notes": "Planned June 2018"
+        "notes": "Planned Summer 2018"
       },
       "geometry": {
           "type": "Point",
@@ -383,11 +385,11 @@
       "type": "Feature",
       "properties": {
         "name": "George H. Crosby Manitou State Park",
-        "visited": "Planned",
+        "visited": "N/A",
         "comments": "Waterfalls",
         "activities": "Hiking trails",
         "camping": "Backpack-in campsite",
-        "notes": "Planned May 2019"
+        "notes": "Planning Fall 2019"
       },
       "geometry": {
           "type": "Point",
@@ -481,7 +483,7 @@
         "comments": "",
         "activities": "Hiking trails",
         "camping": "",
-        "notes": "Planned July 2018"
+        "notes": "Planned Summer/Fall 2018"
       },
       "geometry": {
           "type": "Point",
@@ -506,10 +508,11 @@
       "type": "Feature",
       "properties": {
         "name": "Hill-Annex Mine State Park",
-        "visited": "N/A",
+        "visited": "Planned",
         "comments": "Mine and Fossil tours",
         "activities": "",
-        "camping": ""
+        "camping": "",
+        "notes": "Planned June 2019"
       },
       "geometry": {
           "type": "Point",
@@ -877,7 +880,7 @@
         "comments": "Minnesota Valley State Trail",
         "activities": "Hiking trails, Paved bike trails",
         "camping": "Backpack-in campsite, Walk-in campsite",
-        "notes": "Planned June 2018"
+        "notes": "Planned Fall 2018"
       },
       "geometry": {
           "type": "Point",
@@ -1085,7 +1088,7 @@
         "comments": "Continental divide",
         "activities": "Boat rental, Canoe rental, Hiking trails, Snowshoe rental",
         "camping": "Backpack-in campsite, Camper cabin, Canoe-in campsite, Drive-in campsite, Guesthouse, Pull-through campsite",
-        "notes": "Planned October 2018"
+        "notes": "Planned June 2019"
       },
       "geometry": {
           "type": "Point",
@@ -1112,10 +1115,11 @@
       "type": "Feature",
       "properties": {
         "name": "Schoolcraft State Park",
-        "visited": "N/A",
+        "visited": "Planned",
         "comments": "",
         "activities": "Hiking trail",
-        "camping": "Canoe-in campsite, Drive-in campsite"
+        "camping": "Canoe-in campsite, Drive-in campsite",
+        "notes": "Planned June 2019"
       },
       "geometry": {
           "type": "Point",
