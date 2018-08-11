@@ -327,11 +327,12 @@
       "type": "Feature",
       "properties": {
         "name": "Fort Snelling State Park",
-        "visited": "Planned",
+        "visited": "2018",
         "comments": "",
         "activities": "Canoe rental, Groomed snowshoe trails, Kayak rental, Snowshoe rental, Paved bike trails",
         "camping": "",
-        "notes": "Planned Summer 2018"
+        "photo": "parks/FortSnelling.JPG",
+        "notes": "Beautiful hike around Pike Island. Very quiet park near the airport."
       },
       "geometry": {
           "type": "Point",
