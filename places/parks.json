@@ -360,11 +360,12 @@
       "type": "Feature",
       "properties": {
         "name": "Frontenac State Park",
-        "visited": "Planned",
+        "visited": "2018",
         "comments": "Birdwatching paradise",
         "activities": "Hiking trails, Snowshoe rental",
         "camping": "Backpack-in campsite, Cart-in campsite, Drive-in campsite",
-        "notes": "Planned September 2018"
+        "photo": "parks/Frontenac.JPG",
+        "notes": "Amazing hiking and views of Lake Pepin, Bird migration (spring/fall), butterfly migration (fall), Cart-in #6"
       },
       "geometry": {
           "type": "Point",
@@ -468,11 +469,13 @@
       "type": "Feature",
       "properties": {
         "name": "Great River Bluffs State Park",
-        "visited": "Planned",
+        "visited": "2018",
         "comments": "Blufftop views, including 5 scenic overlooks, of the Mississippi River Valley",
         "activities": "Snowshoe rental",
-        "camping": "Drive-in campsite",
-        "notes": "Planned September 2018"
+        "camping": "Cart-in campsite, Drive-in campsite",
+        "photoType": "portrait",
+        "photo": "parks/GreatRiverBluffs.JPG",
+        "notes": "'Where the hardwood forest ends', Cart-in site #3"
       },
       "geometry": {
           "type": "Point",
@@ -605,11 +608,12 @@
       "type": "Feature",
       "properties": {
         "name": "John A. Latsch State Park",
-        "visited": "Planned",
+        "visited": "2018",
         "comments": "A half-mile hike (592 steps) up the deep ravine to Charity Peak for a panoramic view of the Mississippi River Valley",
         "activities": "Hiking trails",
         "camping": "",
-        "notes": "Planned September 2018"
+        "photo": "parks/JohnALatsch.JPG",
+        "notes": "Beautiful views!"
       },
       "geometry": {
           "type": "Point",
