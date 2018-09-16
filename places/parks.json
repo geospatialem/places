@@ -113,10 +113,11 @@
       "type": "Feature",
       "properties": {
         "name": "Buffalo River State Park",
-        "visited": "N/A",
+        "visited": "Planned",
         "comments": "",
         "activities": "Hiking trails",
-        "camping": "Drive-in campsite"
+        "camping": "Drive-in campsite",
+        "notes": "Planned September 2019"
       },
       "geometry": {
           "type": "Point",
@@ -826,10 +827,11 @@
       "type": "Feature",
       "properties": {
         "name": "Maplewood State Park",
-        "visited": "N/A",
+        "visited": "Planned",
         "comments": "",
         "activities": "Boat rental, Canoe rental, Groomed snowshoe trail, Hiking trails, Kayak rental, Snowshoe rental",
-        "camping": "Backpack-in campsite, Camper cabin, Drive-in campsite, Pull-through campsite"
+        "camping": "Backpack-in campsite, Camper cabin, Drive-in campsite, Pull-through campsite",
+        "notes": "Planned September 2019"
       },
       "geometry": {
           "type": "Point",
