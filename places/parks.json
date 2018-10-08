@@ -35,11 +35,12 @@
       "type": "Feature",
       "properties": {
         "name": "Bear Head Lake State Park",
-        "visited": "Planned",
+        "visited": "2018",
         "comments": "",
         "activities": "Canoe rental, Hiking trails, Kayak rental, Snowshoe rental",
         "camping": "Backpack-in campsite, Boat-in campsite, Camper cabin, Canoe-in campsite, Drive-in campsite, Kayak-in campsite",
-        "notes": "Planned October 2018"
+        "notes": "Feels like the BWCA and an amazing hiking club trail! Beautiful views and amazing scenery throughout the park. Stay in the red pine camper cabin.",
+        "photo": "parks/BearHeadLake.JPG"
       },
       "geometry": {
           "type": "Point",
@@ -568,7 +569,7 @@
         "comments": "Visit Minnesota's premier off-highway vehicle recreation area to ride 36 miles of scenic trails such as Attitude Alley, Quartz Mountain, and Jackpine Lane. No entrance fee required. Open daily May through October; weekends only with limited staffing late November to April.",
         "activities": "Day-use only, OHV trails, Picnic shelter",
         "camping": "",
-        "notes": "Planned October 2018"
+        "notes": "Planned June 2019"
       },
       "geometry": {
           "type": "Point",
@@ -594,11 +595,12 @@
       "type": "Feature",
       "properties": {
         "name": "Jay Cooke State Park",
-        "visited": "Planned",
+        "visited": "2018",
         "comments": "Swinging bridge over the St. Louis River; Thomson bridge",
         "activities": "Hiking trails, Paved bike trails, Snowshoe rental",
         "camping": "Backpack-in camping, Camper cabin, Drive-in campsite, Pull-through campsite, Walk-in campsite",
-        "notes": "Planned October 2018"
+        "notes": "The swinging bridge offers incredible views, especially of fall colors. Drive a bit further north to hike Ely's peak, an incredible view just south of Duluth. Stay in the Basalt camper cabin.",
+        "photo": "parks/JayCooke.JPG"
       },
       "geometry": {
           "type": "Point",
@@ -812,10 +814,11 @@
       "type": "Feature",
       "properties": {
         "name": "Lake Vermilion-Soudan Underground Mine State Park",
-        "visited": "2007",
+        "visited": "2018",
         "comments": "Lander Mattson Peak; Journey a half-mile underground to explore the world of mining or tour a fascinating physics lab. This park preserves five miles of shoreline and public access to a 40,000-acre lake with 368 islands. Hike the 2.4-mile Alaska Shaft trail for an overview.",
         "activities": "Hiking trails, Paved bike trails",
-        "camping": "Boat-in campsite",
+        "camping": "Drive-in campsite, Boat-in campsite",
+        "notes": "Book the mine tour, you won't be disappointed!",
         "photo": "parks/LakeVermilionSoudan.JPG"
       },
       "geometry": {
@@ -846,7 +849,7 @@
         "comments": "Nationally recognized beach.",
         "activities": "Boat rental, Canoe rental, Hiking trails, Kayak rental, Paddleboard rental",
         "camping": "Drive-in campsite, Walk-in campsite",
-        "notes": "Planned October 2018"
+        "notes": "Planned June 2019"
       },
       "geometry": {
           "type": "Point",
@@ -894,7 +897,7 @@
         "comments": "Minnesota Valley State Trail",
         "activities": "Hiking trails, Paved bike trails",
         "camping": "Backpack-in campsite, Walk-in campsite",
-        "notes": "Planned Fall 2018"
+        "notes": "Planned Fall 2019"
       },
       "geometry": {
           "type": "Point",
@@ -1027,10 +1030,11 @@
       "type": "Feature",
       "properties": {
         "name": "Saint Croix Islands State Recreation Area",
-        "visited": "N/A",
+        "visited": "Planned",
         "comments": "Accessible only by boat",
         "activities": "",
-        "camping": ""
+        "camping": "",
+        "notes": "Planned Summer 2019"
       },
       "geometry": {
           "type": "Point",
@@ -1041,9 +1045,10 @@
       "type": "Feature",
       "properties": {
         "name": "St. Croix Boom Site State Wayside",
-        "visited": "N/A",
+        "visited": "Planned",
         "comments": "A 1/2 mile trail along the St. Croix River connects historical and geological markers with the north parking lot with interpretive panels, a large picnic area and a seasonal sanitation facility. [Note: Seasonal sanitation facilities].",
-        "activities": "Hiking trails, Historical marker"
+        "activities": "Hiking trails, Historical marker",
+        "notes": "Planned Summer 2019"
       },
       "geometry": {
           "type": "Point",
@@ -1058,7 +1063,7 @@
         "comments": "Largest state park in Minnesota; Fire tower",
         "activities": "Canoe rental, Hiking trails, Kayak rental, Paved bike trail, Snowshoe rental",
         "camping": "Backpack campsite, Drive-in campsite, Walk-in campsite",
-        "notes": "Planned October 2018"
+        "notes": "Planned August 2019"
       },
       "geometry": {
           "type": "Point",
