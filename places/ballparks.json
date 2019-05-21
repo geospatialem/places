@@ -13,8 +13,9 @@
       "properties": {
         "teamName": "Arizona Diamondbacks",
         "ballparkName": "Chase Field",
-        "visited": "Planned",
-        "notes": "Planned May 2019"
+        "visited": "2019",
+        "photoType": "ballpark",
+        "photo": "ballparks/ChaseField.JPG"
       }
     },
     {
