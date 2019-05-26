@@ -144,11 +144,11 @@
       "type": "Feature",
       "properties": {
         "name": "Caribou Falls State Wayside",
-        "visited": "Planned",
+        "visited": "2019",
         "comments": "Superior Hiking Trail access. A 3/4 mile trail along the Caribou River to Caribou Falls (35-ft waterfall), and also provides stunning views of Lake Superior and the Caribou River gorge. [Note: No sanitation facilities and No picnic tables].",
         "activities": "Hiking trails",
-        "notes": "Planned May 2019"
-
+        "notes": "Beautiful hike and huge waterfall off a Superior Hiking Club spur trail",
+        "photo": "parks/CaribouFalls.JPG"
       },
       "geometry": {
           "type": "Point",
@@ -176,11 +176,11 @@
       "type": "Feature",
       "properties": {
         "name": "Cascade River State Park",
-        "visited": "Planned",
+        "visited": "2019",
         "comments": "Waterfalls! Hike to the top of Moose Mountain (el. 1,148 ft.) and Lookout Mountain (el. 1,200 ft.)",
         "activities": "Hiking trails, Snowshoe rental",
         "camping": "Backpack-in campsite, Drive-in campsite, Kayak-in campsite, Pull-through campsite",
-        "notes": "Planned May 2019"
+        "photo": "parks/CascadeRiver.JPG"
       },
       "geometry": {
           "type": "Point",
@@ -238,10 +238,10 @@
       "type": "Feature",
       "properties": {
         "name": "Devils Track Falls State Wayside",
-        "visited": "Planned",
+        "visited": "N/A",
         "comments": "Access to Devils Track is off the Gunflint Trail via the Superior Hiking Trail. It is a two-mile hike, one way, to reach the wayside. From here you can visit Pincushion Mountain, a rock outcrop overlooking Lake Superior. [Note: No sanitation facilities and No picnic tables].",
         "activities": "Hiking trails",
-        "notes": "Planned May 2019"
+        "notes": ""
       },
       "geometry": {
           "type": "Point",
@@ -439,7 +439,7 @@
       "type": "Feature",
       "properties": {
         "name": "Gooseberry State Park",
-        "visited": "2018",
+        "visited": "2019",
         "comments": "Waterfalls",
         "activities": "Hiking trails, Paved bike trails",
         "camping": "Drive-in campsite, Kayak-in campsite, Pull-through campsite",
@@ -986,10 +986,10 @@
       "type": "Feature",
       "properties": {
         "name": "Ray Berglund State Wayside",
-        "visited": "Planned",
+        "visited": "2019",
         "comments": "A 1/2 mile, primitive trail along the bluffs overlooks the Onion River. A good view of Lake Superior from across U.S. Highway 61 and the Gitchi Gami State Trail.[Note: Seasonal sanitation facilities, and picnic tables present overlooking Lake Superior].",
         "activities": "Hiking trails",
-        "notes": "Planned May 2019"
+        "photo": "parks/RayBerglund.JPG"
       },
       "geometry": {
           "type": "Point",
@@ -1196,11 +1196,13 @@
       "type": "Feature",
       "properties": {
         "name": "Temperance River State Park",
-        "visited": "Planned",
+        "visited": "2019",
         "comments": "Waterfalls; Take the Superior Hiking Trail through the gorge to Carlton Peak (el. 1,526 ft.)",
         "activities": "Hiking trails, Paved bike trail",
         "camping": "Cart-in campsite, Pull-through campsite",
-        "notes": "Planned May 2019"
+        "notes": "Beautiful geology",
+        "photoType": "portrait",
+        "photo": "parks/TemperanceRiver.JPG"
       },
       "geometry": {
           "type": "Point",
@@ -1211,11 +1213,12 @@
       "type": "Feature",
       "properties": {
         "name": "Tettegouche State Park",
-        "visited": "2007",
+        "visited": "2019",
         "comments": "Several waterfalls along the Baptism River, including High Falls, the highest waterfall entirely inside Minnesota's border.",
         "activities": "Canoe rental, Hiking trails, Snowshoe rental",
         "camping": "Cart-in campsite, Drive-in campsite, Kayak-in campsite, Walk-in campsite",
-        "notes": "Shovel point, Planned May 2019"
+        "notes": "Shovel point, High Falls",
+        "photo": "parks/Tettegouche.JPG"
       },
       "geometry": {
           "type": "Point",
