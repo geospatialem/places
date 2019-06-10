@@ -195,9 +195,8 @@
         "comments": "",
         "activities": "Canoe rental, Hiking trails",
         "camping": "Drive-in campsite",
-        "photoType": "portrait",
         "photo": "parks/CharlesLindbergh.JPG",
-        "notes": "Beautiful fall colors!"
+        "notes": "Beautiful fall colors! Lots of frogs and mosquitos in late spring/early summer."
       },
       "geometry": {
           "type": "Point",
