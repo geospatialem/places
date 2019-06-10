@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Afton State Park",
+        "name": "Afton State Park",f
         "visited": "2016",
         "comments": "",
         "activities": "Hiking trails",
@@ -228,7 +228,7 @@
         "comments": "Croft Mine historic site",
         "activities": "Hiking trails, Paved bike trail",
         "camping": "Drive-in campsite, Yurt",
-        "photo": "CuyunaCountry.JPG",
+        "photo": "parks/CuyunaCountry.JPG",
         "notes": ""
       },
       "geometry": {
@@ -524,7 +524,7 @@
         "comments": "Mine and Fossil tours",
         "activities": "",
         "camping": "",
-        "photo": "HillAnnexMine.JPG",
+        "photo": "parks/HillAnnexMine.JPG",
         "notes": ""
       },
       "geometry": {
@@ -1143,7 +1143,7 @@
         "activities": "Hiking trail",
         "camping": "Canoe-in campsite, Drive-in campsite",
         "photoType": "portrait",
-        "photo": "Schoolcraft.JPG",
+        "photo": "parks/Schoolcraft.JPG",
         "notes": "Lovely small park."
       },
       "geometry": {
