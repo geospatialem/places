@@ -191,7 +191,7 @@
       "type": "Feature",
       "properties": {
         "name": "Charles A. Lindbergh State Park",
-        "visited": "2017",
+        "visited": "2019",
         "comments": "",
         "activities": "Canoe rental, Hiking trails",
         "camping": "Drive-in campsite",
@@ -207,11 +207,13 @@
       "type": "Feature",
       "properties": {
         "name": "Crow Wing State Park",
-        "visited": "Planned",
+        "visited": "2019",
         "comments": "",
         "activities": "Canoe rental, Hiking trails",
         "camping": "Camper cabin, Drive-in campsite",
-        "notes": "Planned June 2019"
+        "photo": "parks/CrowWing.JPG",
+        "photoType": "portrait",
+        "notes": "Beautiful historic park. Great basic camper cabin."
       },
       "geometry": {
           "type": "Point",
@@ -222,11 +224,12 @@
       "type": "Feature",
       "properties": {
         "name": "Cuyuna Country State Recreation Area",
-        "visited": "Planned",
+        "visited": "2019",
         "comments": "Croft Mine historic site",
         "activities": "Hiking trails, Paved bike trail",
         "camping": "Drive-in campsite, Yurt",
-        "notes": "Planned June 2019"
+        "photo": "CuyunaCountry.JPG",
+        "notes": ""
       },
       "geometry": {
           "type": "Point",
@@ -517,11 +520,12 @@
       "type": "Feature",
       "properties": {
         "name": "Hill-Annex Mine State Park",
-        "visited": "Planned",
+        "visited": "2019",
         "comments": "Mine and Fossil tours",
         "activities": "",
         "camping": "",
-        "notes": "Planned June 2019"
+        "photo": "HillAnnexMine.JPG",
+        "notes": ""
       },
       "geometry": {
           "type": "Point",
@@ -564,11 +568,11 @@
       "type": "Feature",
       "properties": {
         "name": "Iron Range Off-Highway Vehicle State Recreation Area",
-        "visited": "Planned",
+        "visited": "N/A",
         "comments": "Visit Minnesota's premier off-highway vehicle recreation area to ride 36 miles of scenic trails such as Attitude Alley, Quartz Mountain, and Jackpine Lane. No entrance fee required. Open daily May through October; weekends only with limited staffing late November to April.",
         "activities": "Day-use only, OHV trails, Picnic shelter",
         "camping": "",
-        "notes": "Planned June 2019"
+        "notes": ""
       },
       "geometry": {
           "type": "Point",
@@ -844,11 +848,11 @@
       "type": "Feature",
       "properties": {
         "name": "McCarthy Beach State Park",
-        "visited": "Planned",
+        "visited": "N/A",
         "comments": "Nationally recognized beach.",
         "activities": "Boat rental, Canoe rental, Hiking trails, Kayak rental, Paddleboard rental",
         "camping": "Drive-in campsite, Walk-in campsite",
-        "notes": "Planned June 2019"
+        "notes": ""
       },
       "geometry": {
           "type": "Point",
@@ -892,11 +896,11 @@
       "type": "Feature",
       "properties": {
         "name": "Minnesota Valley State Recreation Area",
-        "visited": "Planned",
+        "visited": "N/A",
         "comments": "Minnesota Valley State Trail",
         "activities": "Hiking trails, Paved bike trails",
         "camping": "Backpack-in campsite, Walk-in campsite",
-        "notes": "Planned Fall 2019"
+        "notes": ""
       },
       "geometry": {
           "type": "Point",
@@ -1029,11 +1033,11 @@
       "type": "Feature",
       "properties": {
         "name": "Saint Croix Islands State Recreation Area",
-        "visited": "Planned",
+        "visited": "N/A",
         "comments": "Accessible only by boat",
         "activities": "",
         "camping": "",
-        "notes": "Planned Summer 2019"
+        "notes": ""
       },
       "geometry": {
           "type": "Point",
@@ -1044,10 +1048,10 @@
       "type": "Feature",
       "properties": {
         "name": "St. Croix Boom Site State Wayside",
-        "visited": "Planned",
+        "visited": "N/A",
         "comments": "A 1/2 mile trail along the St. Croix River connects historical and geological markers with the north parking lot with interpretive panels, a large picnic area and a seasonal sanitation facility. [Note: Seasonal sanitation facilities].",
         "activities": "Hiking trails, Historical marker",
-        "notes": "Planned Summer 2019"
+        "notes": ""
       },
       "geometry": {
           "type": "Point",
@@ -1058,11 +1062,11 @@
       "type": "Feature",
       "properties": {
         "name": "St. Croix State Park",
-        "visited": "Planned",
+        "visited": "N/A",
         "comments": "Largest state park in Minnesota; Fire tower",
         "activities": "Canoe rental, Hiking trails, Kayak rental, Paved bike trail, Snowshoe rental",
         "camping": "Backpack campsite, Drive-in campsite, Walk-in campsite",
-        "notes": "Planned August 2019"
+        "notes": ""
       },
       "geometry": {
           "type": "Point",
@@ -1102,11 +1106,12 @@
       "type": "Feature",
       "properties": {
         "name": "Savanna Portage State Park",
-        "visited": "Planned",
+        "visited": "2019",
         "comments": "Continental divide",
         "activities": "Boat rental, Canoe rental, Hiking trails, Snowshoe rental",
         "camping": "Backpack-in campsite, Camper cabin, Canoe-in campsite, Drive-in campsite, Guesthouse, Pull-through campsite",
-        "notes": "Planned June 2019"
+        "photo": "SavannaPortage.JPG",
+        "notes": ""
       },
       "geometry": {
           "type": "Point",
@@ -1133,11 +1138,13 @@
       "type": "Feature",
       "properties": {
         "name": "Schoolcraft State Park",
-        "visited": "Planned",
+        "visited": "2019",
         "comments": "",
         "activities": "Hiking trail",
         "camping": "Canoe-in campsite, Drive-in campsite",
-        "notes": "Planned June 2019"
+        "photoType": "portrait",
+        "photo": "Schoolcraft.JPG",
+        "notes": "Lovely small park."
       },
       "geometry": {
           "type": "Point",
