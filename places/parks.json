@@ -87,7 +87,7 @@
         "comments": "",
         "activities": "Canoe rental, Hiking trails",
         "camping": "Drive-in campsite",
-        "notes": "Planned June 2019"
+        "notes": "Planned May 2020"
       },
       "geometry": {
           "type": "Point",
@@ -568,11 +568,11 @@
       "type": "Feature",
       "properties": {
         "name": "Iron Range Off-Highway Vehicle State Recreation Area",
-        "visited": "N/A",
+        "visited": "Planned",
         "comments": "Visit Minnesota's premier off-highway vehicle recreation area to ride 36 miles of scenic trails such as Attitude Alley, Quartz Mountain, and Jackpine Lane. No entrance fee required. Open daily May through October; weekends only with limited staffing late November to April.",
         "activities": "Day-use only, OHV trails, Picnic shelter",
         "camping": "",
-        "notes": ""
+        "notes": "Planned June 2020"
       },
       "geometry": {
           "type": "Point",
@@ -666,7 +666,7 @@
         "comments": "Dinosaur Ridge Overlook",
         "activities": "Hiking trails",
         "camping": "Cart-in campsite, Drive-in campsite, Pull-through campsite",
-        "notes": "Planned June 2019"
+        "notes": "Planned May 2020"
       },
       "geometry": {
           "type": "Point",
@@ -806,7 +806,7 @@
         "comments": "Casey Jones State Trail",
         "activities": "Boat rental, Canoe rental, Hiking trails, Kayak rentals, Paddleboard rental, Paved bike trail, Snowshoe rental",
         "camping": "Camper cabin, Cart-in campsite, Drive-in campsite, Pull-through campsite",
-        "notes": "Planned June 2019"
+        "notes": "Planned May 2020"
       },
       "geometry": {
           "type": "Point",
@@ -848,11 +848,11 @@
       "type": "Feature",
       "properties": {
         "name": "McCarthy Beach State Park",
-        "visited": "N/A",
+        "visited": "Planned",
         "comments": "Nationally recognized beach.",
         "activities": "Boat rental, Canoe rental, Hiking trails, Kayak rental, Paddleboard rental",
         "camping": "Drive-in campsite, Walk-in campsite",
-        "notes": ""
+        "notes": "Planned June 2020"
       },
       "geometry": {
           "type": "Point",
@@ -1095,7 +1095,7 @@
         "visited": "Planned",
         "comments": "2012 marked 150 years since the U.S.-Dakota War of 1862. Created to honor Joseph R. Brown's son Samuel J. Brown, the 'Paul Revere of the West,' who rode 120 miles through a storm on April 19, 1866 to warn of an expected Dakota attack. [Note: One vault toilet].",
         "activities": "Historical marker",
-        "notes": "Planned June 2019"
+        "notes": "Planned May 2020"
       },
       "geometry": {
           "type": "Point",
