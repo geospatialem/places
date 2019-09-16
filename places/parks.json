@@ -35,7 +35,7 @@
       "type": "Feature",
       "properties": {
         "name": "Bear Head Lake State Park",
-        "visited": "2018",
+        "visited": "2019",
         "comments": "",
         "activities": "Canoe rental, Hiking trails, Kayak rental, Snowshoe rental",
         "camping": "Backpack-in campsite, Boat-in campsite, Camper cabin, Canoe-in campsite, Drive-in campsite, Kayak-in campsite",
@@ -114,7 +114,7 @@
       "type": "Feature",
       "properties": {
         "name": "Buffalo River State Park",
-        "visited": "Planned",
+        "visited": "N/A",
         "comments": "",
         "activities": "Hiking trails",
         "camping": "Drive-in campsite",
@@ -552,7 +552,7 @@
       "type": "Feature",
       "properties": {
         "name": "Interstate State Park",
-        "visited": "2017",
+        "visited": "2019",
         "comments": "Rock formations",
         "activities": "Canoe rental, Hiking trails",
         "camping": "Drive-in campsite",
@@ -755,7 +755,7 @@
       "type": "Feature",
       "properties": {
         "name": "Lake Carlos State Park",
-        "visited": "2018",
+        "visited": "2019",
         "comments": "",
         "activities": "Boat rental, Canoe rental, Hiking trails",
         "camping": "Camper cabin, Drive-in campsite",
@@ -833,11 +833,12 @@
       "type": "Feature",
       "properties": {
         "name": "Maplewood State Park",
-        "visited": "Planned",
-        "comments": "",
+        "visited": "2019",
+        "comments": "Baker camper cabin in the main campground",
         "activities": "Boat rental, Canoe rental, Groomed snowshoe trail, Hiking trails, Kayak rental, Snowshoe rental",
         "camping": "Backpack-in campsite, Camper cabin, Drive-in campsite, Pull-through campsite",
-        "notes": "Planned September 2019"
+        "notes": "Fabulous fall colors. Prairie and forest surrounding the park.",
+        "photo": "parks/Maplewood.JPG"
       },
       "geometry": {
           "type": "Point",
@@ -1251,7 +1252,7 @@
       "type": "Feature",
       "properties": {
         "name": "Whitewater State Park",
-        "visited": "2018",
+        "visited": "2019",
         "comments": "Fire tower",
         "activities": "Hiking trails, Snowshoe rental",
         "camping": "Camper cabin, Cart-in campsite, Drive-in campsite, Pull-through campsite",
