@@ -350,10 +350,11 @@
       "type": "Feature",
       "properties": {
         "name": "Franz Jevne State Park",
-        "visited": "N/A",
+        "visited": "Planned",
         "comments": "",
         "activities": "Hiking trails",
-        "camping": "Drive-in campsite, Walk-in campsite"
+        "camping": "Drive-in campsite, Walk-in campsite",
+        "notes": "Planned September 2020"
       },
       "geometry": {
           "type": "Point",
@@ -506,10 +507,11 @@
       "type": "Feature",
       "properties": {
         "name": "Hayes Lake State Park",
-        "visited": "N/A",
+        "visited": "Planned",
         "comments": "Bog boardwalk, Hayes dam, Scenic overlook views",
         "activities": "Boat rental, Canoe rental, Hiking trails, Kayak rental",
-        "camping": "Backpack-in campsite, Camper cabin, Drive-in campsite, Kayak-in campsite, Walk-in campsite"
+        "camping": "Backpack-in campsite, Camper cabin, Drive-in campsite, Kayak-in campsite, Walk-in campsite",
+        "notes": "Planned September 2020"
       },
       "geometry": {
           "type": "Point",
@@ -1298,10 +1300,11 @@
       "type": "Feature",
       "properties": {
         "name": "Zippel Bay State Park",
-        "visited": "N/A",
+        "visited": "Planned",
         "comments": "",
         "activities": "Canoe rental, Hiking trails",
-        "camping": "Drive-in campsite, Pull-through campsite"
+        "camping": "Drive-in campsite, Pull-through campsite",
+        "notes": "Planned September 2020"
       },
       "geometry": {
           "type": "Point",
