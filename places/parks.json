@@ -83,11 +83,11 @@
       "type": "Feature",
       "properties": {
         "name": "Big Stone State Park",
-        "visited": "Planned",
+        "visited": "N/A",
         "comments": "",
         "activities": "Canoe rental, Hiking trails",
         "camping": "Drive-in campsite",
-        "notes": "Planned May 2020"
+        "notes": ""
       },
       "geometry": {
           "type": "Point",
@@ -664,11 +664,11 @@
       "type": "Feature",
       "properties": {
         "name": "Kilen Woods State Park",
-        "visited": "Planned",
+        "visited": "N/A",
         "comments": "Dinosaur Ridge Overlook",
         "activities": "Hiking trails",
         "camping": "Cart-in campsite, Drive-in campsite, Pull-through campsite",
-        "notes": "Planned May 2020"
+        "notes": ""
       },
       "geometry": {
           "type": "Point",
@@ -804,11 +804,11 @@
       "type": "Feature",
       "properties": {
         "name": "Lake Shetek State Park",
-        "visited": "Planned",
+        "visited": "N/A",
         "comments": "Casey Jones State Trail",
         "activities": "Boat rental, Canoe rental, Hiking trails, Kayak rentals, Paddleboard rental, Paved bike trail, Snowshoe rental",
         "camping": "Camper cabin, Cart-in campsite, Drive-in campsite, Pull-through campsite",
-        "notes": "Planned May 2020"
+        "notes": ""
       },
       "geometry": {
           "type": "Point",
@@ -1095,10 +1095,10 @@
       "type": "Feature",
       "properties": {
         "name": "Sam Brown Memorial State Wayside",
-        "visited": "Planned",
+        "visited": "N/A",
         "comments": "2012 marked 150 years since the U.S.-Dakota War of 1862. Created to honor Joseph R. Brown's son Samuel J. Brown, the 'Paul Revere of the West,' who rode 120 miles through a storm on April 19, 1866 to warn of an expected Dakota attack. [Note: One vault toilet].",
         "activities": "Historical marker",
-        "notes": "Planned May 2020"
+        "notes": ""
       },
       "geometry": {
           "type": "Point",
