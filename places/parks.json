@@ -67,11 +67,11 @@
       "type": "Feature",
       "properties": {
         "name": "Big Bog State Park",
-        "visited": "2017",
+        "visited": "2020",
         "comments": "Bog boardwalk",
         "activities": "Boat rental, Canoe rental, Hiking trails, Kayak rental",
         "camping": "Camper cabin, Drive-in campsite, Pull-through campsite",
-        "notes": "Check out the sunset over Upper Red Lake. Great camper cabins!",
+        "notes": "Check out the sunset over Upper Red Lake. Cabin #2",
         "photo": "parks/BigBog.JPG"
       },
       "geometry": {
@@ -350,11 +350,12 @@
       "type": "Feature",
       "properties": {
         "name": "Franz Jevne State Park",
-        "visited": "Planned",
+        "visited": "2020",
         "comments": "",
         "activities": "Hiking trails",
         "camping": "Drive-in campsite, Walk-in campsite",
-        "notes": "Planned September 2020"
+        "photo": "parks/FranzJevne.JPG",
+        "notes": "Minnesota's smallest park. Beautiful! First come, first serve campground."
       },
       "geometry": {
           "type": "Point",
@@ -426,7 +427,7 @@
       "type": "Feature",
       "properties": {
         "name": "Glendalough State Park",
-        "visited": "2018",
+        "visited": "2020",
         "comments": "Fall color destination",
         "activities": "Boat rental, Canoe rental, Kayak rental, Paddleboard rental, Paved bike trails, Snowshoe rental",
         "camping": "Backpack-in campsite, Camper cabin, Canoe-in campsite, Cart-in campsite, Kayak-in campsite, Yurt",
@@ -507,11 +508,12 @@
       "type": "Feature",
       "properties": {
         "name": "Hayes Lake State Park",
-        "visited": "Planned",
+        "visited": "2020",
         "comments": "Bog boardwalk, Hayes dam, Scenic overlook views",
         "activities": "Boat rental, Canoe rental, Hiking trails, Kayak rental",
         "camping": "Backpack-in campsite, Camper cabin, Drive-in campsite, Kayak-in campsite, Walk-in campsite",
-        "notes": "Planned September 2020"
+        "photo": "parks/HayesLake.JPG",
+        "notes": "Short bog walk"
       },
       "geometry": {
           "type": "Point",
@@ -1300,11 +1302,12 @@
       "type": "Feature",
       "properties": {
         "name": "Zippel Bay State Park",
-        "visited": "Planned",
+        "visited": "2020",
         "comments": "",
         "activities": "Canoe rental, Hiking trails",
         "camping": "Drive-in campsite, Pull-through campsite",
-        "notes": "Planned September 2020"
+        "photo": "parks/ZippelBay.JPG",
+        "notes": ""
       },
       "geometry": {
           "type": "Point",
