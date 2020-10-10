@@ -576,7 +576,7 @@
         "comments": "Visit Minnesota's premier off-highway vehicle recreation area to ride 36 miles of scenic trails such as Attitude Alley, Quartz Mountain, and Jackpine Lane. No entrance fee required. Open daily May through October; weekends only with limited staffing late November to April.",
         "activities": "Day-use only, OHV trails, Picnic shelter",
         "camping": "",
-        "notes": "Planned June 2020"
+        "notes": "Tentatively planned June 2021"
       },
       "geometry": {
           "type": "Point",
@@ -666,11 +666,11 @@
       "type": "Feature",
       "properties": {
         "name": "Kilen Woods State Park",
-        "visited": "N/A",
+        "visited": "Planned",
         "comments": "Dinosaur Ridge Overlook",
         "activities": "Hiking trails",
         "camping": "Cart-in campsite, Drive-in campsite, Pull-through campsite",
-        "notes": ""
+        "notes": "Tentatively planned May 2021"
       },
       "geometry": {
           "type": "Point",
@@ -806,11 +806,11 @@
       "type": "Feature",
       "properties": {
         "name": "Lake Shetek State Park",
-        "visited": "N/A",
+        "visited": "Planned",
         "comments": "Casey Jones State Trail",
         "activities": "Boat rental, Canoe rental, Hiking trails, Kayak rentals, Paddleboard rental, Paved bike trail, Snowshoe rental",
         "camping": "Camper cabin, Cart-in campsite, Drive-in campsite, Pull-through campsite",
-        "notes": ""
+        "notes": "Tentatively planned May 2021"
       },
       "geometry": {
           "type": "Point",
@@ -857,7 +857,7 @@
         "comments": "Nationally recognized beach.",
         "activities": "Boat rental, Canoe rental, Hiking trails, Kayak rental, Paddleboard rental",
         "camping": "Drive-in campsite, Walk-in campsite",
-        "notes": "Planned June 2020"
+        "notes": "Tentatively planned June 2021"
       },
       "geometry": {
           "type": "Point",
@@ -901,11 +901,12 @@
       "type": "Feature",
       "properties": {
         "name": "Minnesota Valley State Recreation Area",
-        "visited": "N/A",
+        "visited": "2020",
         "comments": "Minnesota Valley State Trail",
         "activities": "Hiking trails, Paved bike trails",
         "camping": "Backpack-in campsite, Walk-in campsite",
-        "notes": ""
+        "photo": "parks/MinnesotaValley.JPG",
+        "notes": "Lots of history from Dakota, 1600s, and 1860s"
       },
       "geometry": {
           "type": "Point",
