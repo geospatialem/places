@@ -20,7 +20,7 @@
       "type": "Feature",
       "properties": {
         "name": "Banning State Park",
-        "visited": "2017",
+        "visited": "2021",
         "comments": "",
         "activities": "Hiking trails",
         "camping": "Boat-in campsite, Canoe-in campsite, Camping, Camper cabin, Drive-in campsite, Kayak-in campsite",
@@ -576,7 +576,7 @@
         "comments": "Visit Minnesota's premier off-highway vehicle recreation area to ride 36 miles of scenic trails such as Attitude Alley, Quartz Mountain, and Jackpine Lane. No entrance fee required. Open daily May through October; weekends only with limited staffing late November to April.",
         "activities": "Day-use only, OHV trails, Picnic shelter",
         "camping": "",
-        "notes": "Tentatively planned June 2021"
+        "notes": "Tentatively planned Summer 2021"
       },
       "geometry": {
           "type": "Point",
@@ -854,11 +854,12 @@
       "type": "Feature",
       "properties": {
         "name": "McCarthy Beach State Park",
-        "visited": "Planned",
+        "visited": "2021",
         "comments": "Nationally recognized beach.",
         "activities": "Boat rental, Canoe rental, Hiking trails, Kayak rental, Paddleboard rental",
         "camping": "Drive-in campsite, Walk-in campsite",
-        "notes": "Tentatively planned June 2021"
+        "notes": "Beautiful hiking club trail (very remote road access), Incredible shoreline and lakes",
+        "photo": "parks/McCarthyBeach.JPG"
       },
       "geometry": {
           "type": "Point",
@@ -933,7 +934,7 @@
       "type": "Feature",
       "properties": {
         "name": "Moose Lake State Park",
-        "visited": "2018",
+        "visited": "2021",
         "comments": "Agate and Geological Interpretive Center",
         "activities": "Boat rental, Canoe rental, Hiking trails, Kayak rental, Paved bike trails",
         "camping": "Drive-in campsite, Walk-in campsite",
@@ -1039,12 +1040,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Saint Croix Islands State Recreation Area",
-        "visited": "N/A",
+        "name": "St. Croix Islands State Recreation Area",
+        "visited": "Planned",
         "comments": "Accessible only by boat",
         "activities": "",
         "camping": "",
-        "notes": ""
+        "notes": "Planned Summer 2021"
       },
       "geometry": {
           "type": "Point",
@@ -1055,10 +1056,10 @@
       "type": "Feature",
       "properties": {
         "name": "St. Croix Boom Site State Wayside",
-        "visited": "N/A",
+        "visited": "Planned",
         "comments": "A 1/2 mile trail along the St. Croix River connects historical and geological markers with the north parking lot with interpretive panels, a large picnic area and a seasonal sanitation facility. [Note: Seasonal sanitation facilities].",
         "activities": "Hiking trails, Historical marker",
-        "notes": ""
+        "notes": "Planned Summer 2021"
       },
       "geometry": {
           "type": "Point",
@@ -1069,11 +1070,11 @@
       "type": "Feature",
       "properties": {
         "name": "St. Croix State Park",
-        "visited": "Planned",
+        "visited": "N/A",
         "comments": "Largest state park in Minnesota; Fire tower",
         "activities": "Canoe rental, Hiking trails, Kayak rental, Paved bike trail, Snowshoe rental",
         "camping": "Backpack campsite, Drive-in campsite, Walk-in campsite",
-        "notes": "Planned June 2021"
+        "notes": ""
       },
       "geometry": {
           "type": "Point",
@@ -1178,7 +1179,7 @@
       "type": "Feature",
       "properties": {
         "name": "Split Rock Creek State Park",
-        "visited": "2017",
+        "visited": "2021",
         "comments": "",
         "activities": "Boat rental, Canoe rental, Hiking trails, Kayak rental, Paddleboard rental",
         "camping": "Drive-in campsite",
