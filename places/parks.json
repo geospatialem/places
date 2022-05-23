@@ -82,12 +82,13 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Big Stone State Park",
-        "visited": "N/A",
+        "name": "Big Stone Lake State Park",
+        "visited": "2022",
         "comments": "",
         "activities": "Canoe rental, Hiking trails",
         "camping": "Drive-in campsite",
-        "notes": ""
+        "photo": "parks/BigStoneLake.JPG",
+        "notes": "Bird destination! Very windy near lake. Site #35. Incredible prairie hike on Blue Bird trail next to campground. Hiking club trail located over 10 miles north of campground."
       },
       "geometry": {
           "type": "Point",
@@ -572,11 +573,11 @@
       "type": "Feature",
       "properties": {
         "name": "Iron Range Off-Highway Vehicle State Recreation Area",
-        "visited": "Planned",
+        "visited": "N/A",
         "comments": "Visit Minnesota's premier off-highway vehicle recreation area to ride 36 miles of scenic trails such as Attitude Alley, Quartz Mountain, and Jackpine Lane. No entrance fee required. Open daily May through October; weekends only with limited staffing late November to April.",
         "activities": "Day-use only, OHV trails, Picnic shelter",
         "camping": "",
-        "notes": "Tentatively planned Summer 2021"
+        "notes": ""
       },
       "geometry": {
           "type": "Point",
@@ -1045,7 +1046,7 @@
         "comments": "Accessible only by boat",
         "activities": "",
         "camping": "",
-        "notes": "Planned Summer 2021"
+        "notes": "Planned Summer 2022"
       },
       "geometry": {
           "type": "Point",
@@ -1059,7 +1060,7 @@
         "visited": "Planned",
         "comments": "A 1/2 mile trail along the St. Croix River connects historical and geological markers with the north parking lot with interpretive panels, a large picnic area and a seasonal sanitation facility. [Note: Seasonal sanitation facilities].",
         "activities": "Hiking trails, Historical marker",
-        "notes": "Planned Summer 2021"
+        "notes": "Planned Summer 2022"
       },
       "geometry": {
           "type": "Point",
@@ -1100,9 +1101,10 @@
       "type": "Feature",
       "properties": {
         "name": "Sam Brown Memorial State Wayside",
-        "visited": "N/A",
+        "visited": "2022",
         "comments": "2012 marked 150 years since the U.S.-Dakota War of 1862. Created to honor Joseph R. Brown's son Samuel J. Brown, the 'Paul Revere of the West,' who rode 120 miles through a storm on April 19, 1866 to warn of an expected Dakota attack. [Note: One vault toilet].",
         "activities": "Historical marker",
+        "photo": "parks/SamBrownMemorial.JPG",
         "notes": ""
       },
       "geometry": {
@@ -1179,7 +1181,7 @@
       "type": "Feature",
       "properties": {
         "name": "Split Rock Creek State Park",
-        "visited": "2021",
+        "visited": "2017",
         "comments": "",
         "activities": "Boat rental, Canoe rental, Hiking trails, Kayak rental, Paddleboard rental",
         "camping": "Drive-in campsite",
@@ -1194,7 +1196,7 @@
       "type": "Feature",
       "properties": {
         "name": "Split Rock Lighthouse State Park",
-        "visited": "2019",
+        "visited": "2021",
         "comments": "Lighthouse; Waterfalls; Pebble Beach; Gitchi-Gami State Trail",
         "activities": "Hiking trails, Paved bike trail",
         "camping": "Backpack-in campsite, Cart-in campsite, Kayak-in campsite",
